@@ -1,5 +1,5 @@
 # Table of Contents
-## Dutch Language Learning Roadmap
+### Dutch Language Learning Roadmap
 
 The Dutch Language Learning Roadmap is split into 4 stages over the course of 12 months (5-7 days a week), with each stage a different number of weeks, e.g:
 - **Stage 1: Foundations (Weeks 1–4)**
