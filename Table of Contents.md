@@ -7,9 +7,9 @@ The Dutch Language Learning Roadmap is split into 4 stages over the course of 12
 - **Stage 3: Intermediate Level (Months 4–8)**
 - **Stage 4: Advanced Proficiency (Months 9–12)**
 
-### **Stage 1
+### **Stage 1**
 ---
-#### Week 1 Overview - Basics**
+#### **Week 1 Overview - Basics**
 -   **Goal for the Week:** Learn Dutch pronunciation, the alphabet, essential greetings, and basic sentence structures.
 
 #### **Daily Focus:**
