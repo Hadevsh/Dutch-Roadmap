@@ -200,3 +200,26 @@ Using at least 5 phrases from the lesson, write a short dialogue between two peo
 -   Learn how to count from 1 to 20 and understand the basics of Dutch numbering.
 -   Familiarize yourself with the names of the days of the week and their pronunciation.
 -   Practice using numbers and days in sentences to develop fluency.
+
+| Number | Dutch | Pronunciations |
+| ------ | ----- | -------------- |
+| 1 | _Eén_ | "Ayn" |
+| 2 | _Twee_ | "Tway" |
+| 3 | _Drie_ | "Dree" |
+| 4 | _Vier_ | "Veer" |
+| 5 | _Vijf_ | "Fayf" |
+| 6 | _Zes_ | "Zes" |
+| 7 | _Zeven_ | "ZAY-ven" |
+| 8 | _Acht_ | "Acht" (with guttural 'ch') |
+| 9 | _Negen_ | "NAY-ghen" |
+| 10 | _Tien_ | "Teen" |
+| 11 | _Elf_ | "Elf" |
+| 12 | _Twaalf_ | "Twaalf" |
+| 13 | _Dertien_ | "DAIR-teen" |
+| 14 | _Veertien_ | "VEER-teen" |
+| 15 | _Vijftien_ | "FAYF-teen" |
+| 16 | _Zestien_ | "ZES-teen" |
+| 17 | _Zeventien_ | "ZAY-ven-teen" |
+| 18 | _Achttien_ | "Acht-teen" |
+| 19 | _Negentien_ | "NAY-ghen-teen" |
+| 20 | _Twintig_ | "TWIN-tig" |
