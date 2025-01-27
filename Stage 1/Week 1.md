@@ -245,3 +245,13 @@ The days of the week in Dutch are similar to Germanic languages and often end in
 **Key Observations:**
 1.   Each day ends with -dag (day), which makes them easier to remember.
 2.   The pronunciations are logical but can vary slightly by region.
+
+**Numbers in Context:**
+1.   Ik heb twee appels. – I have two apples.
+2.   De trein vertrekt om negen uur. – The train leaves at nine o'clock.
+3.   Ik ben zestien jaar oud. – I am sixteen years old.
+
+**Days in Context:**
+1.   Vandaag is maandag. – Today is Monday.
+2.   Ik werk op woensdag. – I work on Wednesday.
+3.   Het weekend is zaterdag en zondag. – The weekend is Saturday and Sunday.
