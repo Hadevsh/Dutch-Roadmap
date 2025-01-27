@@ -193,3 +193,10 @@ Using at least 5 phrases from the lesson, write a short dialogue between two peo
 **Thomas:** ........................................................................
 **Nora:** ........................................................................
 **Thomas:** ........................................................................
+
+### Lesson 3: Numbers and Days of the Week
+---
+**Lesson Goals:**
+-   Learn how to count from 1 to 20 and understand the basics of Dutch numbering.
+-   Familiarize yourself with the names of the days of the week and their pronunciation.
+-   Practice using numbers and days in sentences to develop fluency.
