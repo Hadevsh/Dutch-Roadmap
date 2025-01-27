@@ -203,8 +203,8 @@ Using at least 5 phrases from the lesson, write a short dialogue between two peo
 
 Dutch numbers are often similar to English ones, but pronunciation can be tricky for beginners. Here’s a guide to the numbers from 1 to 20:
 
-| Number | Dutch | Pronunciations |
-| ------ | ----- | -------------- |
+| Number | Dutch | Pronunciation |
+| ------ | ----- | ------------- |
 | 1 | _Eén_ | "Ayn" |
 | 2 | _Twee_ | "Tway" |
 | 3 | _Drie_ | "Dree" |
@@ -229,3 +229,19 @@ Dutch numbers are often similar to English ones, but pronunciation can be tricky
 **Key Observations:**
 1.   Notice the pattern from 13 to 19: the first part of the number (der, veer, vijf) corresponds to the base number, followed by -tien.
 2.   The number 20 (twintig) introduces a pattern for higher numbers, where -tig is the suffix for tens (e.g., dertig = 30).
+
+The days of the week in Dutch are similar to Germanic languages and often end in -dag. Here’s a table with pronunciation:
+
+| Day | Dutch | Pronunciation | Meaning/Context |
+| --- | ----- | ------------- | --------------- |
+| Monday | _Maandag_ | "MAHN-dahg" | Derived from the moon (maan). |
+| Tuesday | _Dinsdag_ | "DINZ-dahg" | Related to the Norse god Tyr. |
+| Wednesday | _Woensdag_ | "VOONS-dahg" | "Wodan’s day" (Odin). |
+| Thursday | _Donderdag_ | "DON-der-dahg" | Named after Thor (donder = thunder). |
+| Friday | _Vrijdag_ | "FRY-dahg" | "Freya’s day" (Norse goddess). |
+| Saturday | _Zaterdag_ | "ZAH-ter-dahg" | Refers to Saturn (zaterdag). |
+| Sunday | _Zondag_ | "ZON-dahg" | "Sun-day" (zon = sun). |
+
+**Key Observations:**
+1.   Each day ends with -dag (day), which makes them easier to remember.
+2.   The pronunciations are logical but can vary slightly by region.
