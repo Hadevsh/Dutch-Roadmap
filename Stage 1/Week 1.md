@@ -201,6 +201,8 @@ Using at least 5 phrases from the lesson, write a short dialogue between two peo
 -   Familiarize yourself with the names of the days of the week and their pronunciation.
 -   Practice using numbers and days in sentences to develop fluency.
 
+Dutch numbers are often similar to English ones, but pronunciation can be tricky for beginners. Here’s a guide to the numbers from 1 to 20:
+
 | Number | Dutch | Pronunciations |
 | ------ | ----- | -------------- |
 | 1 | _Eén_ | "Ayn" |
