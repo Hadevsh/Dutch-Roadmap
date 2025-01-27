@@ -225,3 +225,7 @@ Dutch numbers are often similar to English ones, but pronunciation can be tricky
 | 18 | _Achttien_ | "Acht-teen" |
 | 19 | _Negentien_ | "NAY-ghen-teen" |
 | 20 | _Twintig_ | "TWIN-tig" |
+
+**Key Observations:**
+1.   Notice the pattern from 13 to 19: the first part of the number (der, veer, vijf) corresponds to the base number, followed by -tien.
+2.   The number 20 (twintig) introduces a pattern for higher numbers, where -tig is the suffix for tens (e.g., dertig = 30).
