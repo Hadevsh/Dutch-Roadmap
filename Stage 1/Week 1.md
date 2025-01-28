@@ -256,6 +256,11 @@ The days of the week in Dutch are similar to Germanic languages and often end in
 2.   _Ik werk op woensdag._ – I work on Wednesday.
 3.   _Het weekend is zaterdag en zondag._ – The weekend is Saturday and Sunday.
 
+**Wrap-up**
+-   Review numbers 1–20 and days of the week aloud.
+-   Practice forming your own sentences with numbers and days.
+-   Reflect on your progress: Are the pronunciation and patterns becoming clearer?
+
 #### **Exercises**:
 Translate the words:
 -   _Vrijdag_ = ..............
