@@ -227,23 +227,23 @@ Dutch numbers are often similar to English ones, but pronunciation can be tricky
 | 20 | _Twintig_ | "TWIN-tig" |
 
 **Key Observations:**
-1.   Notice the pattern from 13 to 19: the first part of the number (der, veer, vijf) corresponds to the base number, followed by -tien.
-2.   The number 20 (twintig) introduces a pattern for higher numbers, where -tig is the suffix for tens (e.g., dertig = 30).
+1.   Notice the pattern from 13 to 19: the first part of the number (_der, veer, vijf_) corresponds to the base number, followed by _-tien_.
+2.   The number 20 (_twintig_) introduces a pattern for higher numbers, where _-tig_ is the suffix for tens (e.g., _dertig_ = 30).
 
-The days of the week in Dutch are similar to Germanic languages and often end in -dag. Here’s a table with pronunciation:
+The days of the week in Dutch are similar to Germanic languages and often end in _-dag_. Here’s a table with pronunciation:
 
 | Day | Dutch | Pronunciation | Meaning/Context |
 | --- | ----- | ------------- | --------------- |
-| Monday | _Maandag_ | "MAHN-dahg" | Derived from the moon (maan). |
+| Monday | _Maandag_ | "MAHN-dahg" | Derived from the moon (_maan_). |
 | Tuesday | _Dinsdag_ | "DINZ-dahg" | Related to the Norse god Tyr. |
 | Wednesday | _Woensdag_ | "VOONS-dahg" | "Wodan’s day" (Odin). |
-| Thursday | _Donderdag_ | "DON-der-dahg" | Named after Thor (donder = thunder). |
+| Thursday | _Donderdag_ | "DON-der-dahg" | Named after Thor (_donder_ = thunder). |
 | Friday | _Vrijdag_ | "FRY-dahg" | "Freya’s day" (Norse goddess). |
-| Saturday | _Zaterdag_ | "ZAH-ter-dahg" | Refers to Saturn (zaterdag). |
-| Sunday | _Zondag_ | "ZON-dahg" | "Sun-day" (zon = sun). |
+| Saturday | _Zaterdag_ | "ZAH-ter-dahg" | Refers to Saturn (_zaterdag_). |
+| Sunday | _Zondag_ | "ZON-dahg" | "Sun-day" (_zon_ = sun). |
 
 **Key Observations:**
-1.   Each day ends with -dag (day), which makes them easier to remember.
+1.   Each day ends with _-dag_ (day), which makes them easier to remember.
 2.   The pronunciations are logical but can vary slightly by region.
 
 **Numbers in Context:**
