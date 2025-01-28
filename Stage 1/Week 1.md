@@ -247,11 +247,11 @@ The days of the week in Dutch are similar to Germanic languages and often end in
 2.   The pronunciations are logical but can vary slightly by region.
 
 **Numbers in Context:**
-1.   Ik heb twee appels. – I have two apples.
-2.   De trein vertrekt om negen uur. – The train leaves at nine o'clock.
-3.   Ik ben zestien jaar oud. – I am sixteen years old.
+1.   _Ik heb twee appels._ – I have two apples.
+2.   _De trein vertrekt om negen uur._ – The train leaves at nine o'clock.
+3.   _Ik ben zestien jaar oud._ – I am sixteen years old.
 
 **Days in Context:**
-1.   Vandaag is maandag. – Today is Monday.
-2.   Ik werk op woensdag. – I work on Wednesday.
-3.   Het weekend is zaterdag en zondag. – The weekend is Saturday and Sunday.
+1.   _Vandaag is maandag._ – Today is Monday.
+2.   _Ik werk op woensdag._ – I work on Wednesday.
+3.   _Het weekend is zaterdag en zondag._ – The weekend is Saturday and Sunday.
