@@ -285,7 +285,7 @@ Translate the words:
 -   Understand the conjugation and use of the two most important Dutch verbs: zijn (to be) and hebben (to have).
 -   Practice forming simple sentences using these verbs.
 
-# Why Are Pronouns Important?
+**Why Are Pronouns Important?**
 Pronouns replace nouns and make sentences more fluid. Imagine introducing yourself without saying "I" or talking about a friend without saying "he" or "she"—it would be awkward! Learning subject pronouns early helps you form simple and clear Dutch sentences.
 Dutch Subject Pronouns:
 | Dutch	| English |	Pronunciation |
