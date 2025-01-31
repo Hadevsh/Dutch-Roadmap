@@ -1,5 +1,5 @@
 # Dutch Language Learning Roadmap
-### *by* Witkor Skrzynecki
+### *by* Wiktor Skrzynecki
 
 This roadmap provides a structured and comprehensive plan for learning the Dutch language, designed for individuals aiming to achieve proficiency over the course of a year. The roadmap is divided into **4 progressive stages**, each catering to a specific level of learning:
 
