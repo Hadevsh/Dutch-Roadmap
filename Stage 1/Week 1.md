@@ -287,7 +287,7 @@ Translate the words:
 
 **Why Are Pronouns Important?**
 Pronouns replace nouns and make sentences more fluid. Imagine introducing yourself without saying "I" or talking about a friend without saying "he" or "she"—it would be awkward! Learning subject pronouns early helps you form simple and clear Dutch sentences.
-Dutch Subject Pronouns:
+**Dutch Subject Pronouns:**
 | Dutch	| English |	Pronunciation |
 | -- | -- | -- |
 | _Ik_ | I | "Ick" |
@@ -308,3 +308,16 @@ Try filling in the correct Dutch pronoun:
 -   ...... zijn in Amsterdam.
 -   ...... is mijn vriend.
 -   ...... spreken Nederlands.
+
+**Why is "Zijn" Important?**
+The verb _zijn_ ("to be") is one of the most commonly used verbs in Dutch. It’s essential for describing people, things, and states of being.
+**Conjugation of _Zijn_:**
+| Dutch | English |	Example Sentence | Translation |
+| -- | -- | -- | -- |
+| _Ik ben_ | I am | _Ik ben gelukkig._ | I am happy. |
+| _Jij / Je bent_ | You are | _Jij bent mijn vriend._ | You are my friend. |
+| _U bent_ | You are (formal) | _U bent vriendelijk._ | You are friendly. |
+| _Hij / Zij is_ | He / She is | _Hij is sterk._ | He is strong. |
+| _Wij / We zijn_ | We are | _Wij zijn hier._ | We are here. |
+| _Jullie zijn_ | You (plural) are | _Jullie zijn slim._ | You (all) are smart. |
+| _Zij / Ze zijn_ | They are | _Zij zijn in Nederland._ | They are in the Netherlands. |
