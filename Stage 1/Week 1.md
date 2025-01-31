@@ -298,3 +298,13 @@ Dutch Subject Pronouns:
 | _Wij / We_ | We | "Vay" / "Vuh" |
 | _Jullie_ | You (plural) | "Yoo-lee" |
 | _Zij / Ze_ | They | "Zay" / "Zuh" |
+-   _Jij_ and _Je_ are both informal ways to say "you." _Jij_ is more emphasized, while _Je_ is more casual.
+-   _U_ is used for formal situations, such as speaking to strangers or showing respect to elders.
+-   _Wij_ vs. _We_ and _Zij_ vs. _Ze_: The first form (_Wij, Zij_) is used for emphasis, while the second (_We, Ze_) is neutral in casual speech.
+
+#### **Quick Exercise**:
+Try filling in the correct Dutch pronoun:
+-   ...... ben Thomas.
+-   ...... zijn in Amsterdam.
+-   ...... is mijn vriend.
+-   ...... spreken Nederlands.
