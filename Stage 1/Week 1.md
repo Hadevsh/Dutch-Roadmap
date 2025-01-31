@@ -277,3 +277,10 @@ Translate the words:
 -   De vergadering is op ........................
 -   We hebben ........................ minuten om te eten.
 -   Vandaag is ........................ en morgen is ........................
+
+### Lesson 4: Subject Pronouns and the Verbs "Zijn" (To Be) & "Hebben" (To Have)
+---
+**Lesson Goals:**
+-   Learn Dutch subject pronouns.
+-   Understand the conjugation and use of the two most important Dutch verbs: zijn (to be) and hebben (to have).
+-   Practice forming simple sentences using these verbs.
