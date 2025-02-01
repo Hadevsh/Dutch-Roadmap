@@ -321,3 +321,12 @@ The verb _zijn_ ("to be") is one of the most commonly used verbs in Dutch. It’
 | _Wij / We zijn_ | We are | _Wij zijn hier._ | We are here. |
 | _Jullie zijn_ | You (plural) are | _Jullie zijn slim._ | You (all) are smart. |
 | _Zij / Ze zijn_ | They are | _Zij zijn in Nederland._ | They are in the Netherlands. |
+
+#### **Quick Exercise**:
+Fill in the blanks with the correct form of _zijn_:
+-   Ik ...... student.
+-   Hij ...... in Amsterdam.
+-   Wij ...... vrienden.
+-   Jij ...... Nederlands.
+
+  
