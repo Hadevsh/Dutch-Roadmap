@@ -341,3 +341,10 @@ The verb _hebben_ ("to have") is crucial because it’s used to express possessi
 | _Wij / We hebben_ | We have | _Wij hebben tijd._ | We have time. |
 | _Jullie hebben_ | You (plural) have | _Jullie hebben geld._ | You (all) have money. |
 | _Zij / Ze hebben_ | They have | _Zij hebben een hond._ | They have a dog. |
+
+#### **Quick Exercise**:
+Fill in the blanks with the correct form of _hebben_:
+-   Ik ...... een fiets.
+-   Zij ...... een huis.
+-   Jij ...... een probleem.
+-   Wij ...... vakantie.
