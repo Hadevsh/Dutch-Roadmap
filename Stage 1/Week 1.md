@@ -332,3 +332,12 @@ Fill in the blanks with the correct form of _zijn_:
 **Why is _Hebben_ Important?**
 The verb _hebben_ ("to have") is crucial because it’s used to express possession and is also an auxiliary verb in forming past tenses.
 **Conjugation of _Hebben_:**
+| Dutch | English |	Example Sentence | Translation |
+| -- | -- | -- | -- |
+| _Ik heb_ | I have | _Ik heb een auto._ | I have a car. |
+| _Jij / Je hebt_ | You have | _Jij hebt een broer._ | You have a brother. |
+| _U heeft_ | You have (formal) | _U heeft een afspraak._ | You have an appointment. |
+| _Hij / Zij heeft_ | He / She has | _Hij heeft een boek._ | He has a book. |
+| _Wij / We hebben_ | We have | _Wij hebben tijd._ | We have time. |
+| _Jullie hebben_ | You (plural) have | _Jullie hebben geld._ | You (all) have money. |
+| _Zij / Ze hebben_ | They have | _Zij hebben een hond._ | They have a dog. |
