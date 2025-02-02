@@ -355,3 +355,9 @@ Now let’s put both verbs into context. Try forming your own sentences using th
 -  _Zij is mijn vriendin en zij heeft een kat._ – She is my friend, and she has a cat.
 -  _Jullie zijn studenten en jullie hebben veel boeken._ – You all are students, and you have many books.
 -  _Hij is ziek, maar hij heeft medicijnen._ – He is sick, but he has medicine.
+
+**Challenge: Translate These Sentences into Dutch**
+-  I am happy, but I have a lot of work.
+-  They are in the Netherlands and they have a house.
+-  You (plural) are smart, and you have good ideas.
+-  She is a teacher, and she has a big family.
