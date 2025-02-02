@@ -373,3 +373,26 @@ Now let’s put both verbs into context. Try forming your own sentences using th
 -   Understand Dutch sentence structure (word order in statements and questions).
 -   Learn how to form basic statements, negatives, and questions.
 -   Practice creating sentences and asking simple questions.
+
+#### Dutch Sentence Structure
+**Why Is Word Order Important?**
+Dutch has a specific subject-verb-object (SVO) sentence structure, similar to English. However, it follows strict rules, especially in questions and subordinate clauses. Mastering word order early will make it easier to form correct sentences.
+
+**Basic Sentence Structure (SVO)**
+A standard Dutch sentence follows this pattern:
+**Subject (S) + Verb (V) + Object (O)**
+**Example:**
+-   _Ik eet een appel._ (**I eat an apple.**)
+    -   **_Ik_** = Subject
+    -   **_eet_** = Verb
+    -   **_een appel_** = Object
+
+**More examples:**
+-   _Zij heeft een hond._ (**She has a dog.**)
+-   _Wij wonen in Nederland._ (**We live in the Netherlands.**)
+
+**Practice Exercise:**
+Rearrange the words to form correct sentences:
+-   (een / ik / heb / fiets)
+-   (hij / is / student / een)
+-   (een / hond / jullie / hebben)
