@@ -361,3 +361,8 @@ Now let’s put both verbs into context. Try forming your own sentences using th
 -  They are in the Netherlands and they have a house.
 -  You (plural) are smart, and you have good ideas.
 -  She is a teacher, and she has a big family.
+
+**Wrap-up**
+-   Review aloud: Repeat the conjugations of zijn and hebben.
+-   Practice sentences: Try forming 3 new sentences using these verbs.
+-   Reflect on what you learned: What was easy? What was challenging?
