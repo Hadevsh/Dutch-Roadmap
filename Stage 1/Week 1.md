@@ -348,3 +348,10 @@ Fill in the blanks with the correct form of _hebben_:
 -   Zij ...... een huis.
 -   Jij ...... een probleem.
 -   Wij ...... vakantie.
+
+**Combining _Zijn_ and _Hebben_ in Sentences**
+Now let’s put both verbs into context. Try forming your own sentences using these examples as inspiration:
+-  _Ik ben moe, maar ik heb energie nodig._ – I am tired, but I need energy.
+-  _Zij is mijn vriendin en zij heeft een kat._ – She is my friend, and she has a cat.
+-  _Jullie zijn studenten en jullie hebben veel boeken._ – You all are students, and you have many books.
+-  _Hij is ziek, maar hij heeft medicijnen._ – He is sick, but he has medicine.
