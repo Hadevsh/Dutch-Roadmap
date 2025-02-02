@@ -366,3 +366,10 @@ Now let’s put both verbs into context. Try forming your own sentences using th
 -   Review aloud: Repeat the conjugations of zijn and hebben.
 -   Practice sentences: Try forming 3 new sentences using these verbs.
 -   Reflect on what you learned: What was easy? What was challenging?
+
+### Lesson 5: Forming Simple Sentences in Dutch (Word Order & Basic Questions)
+---
+**Lesson Goals:**
+-   Understand Dutch sentence structure (word order in statements and questions).
+-   Learn how to form basic statements, negatives, and questions.
+-   Practice creating sentences and asking simple questions.
