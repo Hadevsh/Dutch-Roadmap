@@ -415,3 +415,16 @@ Convert these sentences into negatives:
 -   _Ik heb een kat._ → .............................
 -   _Hij is mijn vriend._ → .............................
 -   _Wij hebben een auto._ → .............................
+
+#### Asking Questions in Dutch
+**Yes/No Questions (Verb-Subject-Object)**
+In **Dutch, questions follow a verb-first (VSO) word order**:
+
+| Statement | Question |
+| -- | -- |
+| _Jij bent student._ (**You are a student.**) | _Ben jij student?_ (**Are you a student?**) | 
+| _Hij heeft een auto._ (**He has a car.**) | _Heeft hij een auto?_ (**Does he have a car?**) |
+
+**More examples:**
+-   _Werk jij hier?_ (**Do you work here?**)
+-   _Spreekt hij Nederlands?_ (**Does he speak Dutch?**)
