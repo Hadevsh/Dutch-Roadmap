@@ -440,3 +440,9 @@ To ask for specific information, we use:
 | _Wanneer_ | When | _Wanneer kom jij?_ (**When are you coming?**) |
 | _Waarom_ | Why | _Waarom ben jij hier?_ (**Why are you here?**) |
 | _Hoe_ | How | _Hoe gaat het?_ (**How are you?**) |
+
+**Practice Exercise:**
+Transform these statements into questions:
+-   _Jij woont in Rotterdam._ (**You live in Rotterdam.**) → ..........................................................
+-   _Zij werkt in een school._ (**She works in a school.**) → ..........................................................
+-   _Hij heeft een fiets._ (**He has a bike.**) → ..........................................................
