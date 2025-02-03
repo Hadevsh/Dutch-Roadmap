@@ -378,7 +378,7 @@ Now let’s put both verbs into context. Try forming your own sentences using th
 **Why Is Word Order Important?**
 Dutch has a specific subject-verb-object (SVO) sentence structure, similar to English. However, it follows strict rules, especially in questions and subordinate clauses. Mastering word order early will make it easier to form correct sentences.
 
-**Basic Sentence Structure (SVO)**
+#### **Basic Sentence Structure (SVO)**
 A standard Dutch sentence follows this pattern:
 **Subject (S) + Verb (V) + Object (O)**
 **Example:**
@@ -396,3 +396,16 @@ Rearrange the words to form correct sentences:
 -   (een / ik / heb / fiets)
 -   (hij / is / student / een)
 -   (een / hond / jullie / hebben)
+
+#### **Negative Sentences in Dutch**
+To **make a sentence negative**, we use _niet_ (not) or _geen_ (no, none).
+
+#### When to use _niet_?
+_Niet_ is placed at the end of the sentence (or before adjectives/adverbs):
+-   _Ik ben niet moe._ (**I am not tired.**)
+-   _Hij werkt niet in Amsterdam._ (**He does not work in Amsterdam.**)
+
+#### When to use _geen_?
+_Geen_ is used to negate a noun when talking about having something:
+-   _Ik heb geen auto._ (**I don’t have a car.**)
+-   _Hij heeft geen geld._ (**He has no money.**)
