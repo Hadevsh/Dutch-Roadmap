@@ -409,3 +409,9 @@ _Niet_ is placed at the end of the sentence (or before adjectives/adverbs):
 _Geen_ is used to negate a noun when talking about having something:
 -   _Ik heb geen auto._ (**I don’t have a car.**)
 -   _Hij heeft geen geld._ (**He has no money.**)
+
+**Practice Exercise:**
+Convert these sentences into negatives:
+-   _Ik heb een kat._ → .............................
+-   _Hij is mijn vriend._ → .............................
+-   _Wij hebben een auto._ → .............................
