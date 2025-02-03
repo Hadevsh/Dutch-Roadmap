@@ -428,3 +428,15 @@ In **Dutch, questions follow a verb-first (VSO) word order**:
 **More examples:**
 -   _Werk jij hier?_ (**Do you work here?**)
 -   _Spreekt hij Nederlands?_ (**Does he speak Dutch?**)
+
+**"WH" Questions (Information Questions)**
+To ask for specific information, we use:
+
+| Dutch | English | Example Question |
+| --- | --- | --- |
+| _Wat_ | What | _Wat is dit?_ (**What is this?**) |
+| _Wie_ | Who | _Wie is dat?_ (**Who is that?**) |
+| _Waar_ | Where | _Waar woon jij?_ (**Where do you live?**) |
+| _Wanneer_ | When | _Wanneer kom jij?_ (**When are you coming?**) |
+| _Waarom_ | Why | _Waarom ben jij hier?_ (**Why are you here?**) |
+| _Hoe_ | How | _Hoe gaat het?_ (**How are you?**) |
