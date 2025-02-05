@@ -468,3 +468,8 @@ Translate the following English sentences into Dutch:
 -   We are happy.
 -   He is not my friend.
 -   What do you want?
+
+**Wrap-Up**
+-   Review key rules: Subject-Verb-Object (SVO) order, negatives with niet and geen, and forming questions.
+-   Try to create three sentences on your own (one positive, one negative, and one question).
+-   Reflect: Which part was the easiest? Which was the hardest?
