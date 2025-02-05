@@ -460,3 +460,11 @@ Statement: _Wij zijn studenten._ (**We are students.**)
 Statement: _Zij woont in Amsterdam._ (**She lives in Amsterdam.**)
 -   Negative: ..........................................................
 -   Question: ..........................................................
+
+#### Translation Challenge
+Translate the following English sentences into Dutch:
+-   I do not have a car.
+-   Where do you live?
+-   We are happy.
+-   He is not my friend.
+-   What do you want?
