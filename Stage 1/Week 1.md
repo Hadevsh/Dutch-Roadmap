@@ -480,3 +480,33 @@ Translate the following English sentences into Dutch:
 -   Learn how to use Dutch adjectives to describe people, objects, and places.
 -   Understand adjective placement and rules in Dutch grammar.
 -   Practice forming descriptive sentences with different adjectives.
+
+#### Understanding Adjective Placement
+To ask for specific information, we use:
+
+**What Are Adjectives?**
+Adjectives describe nouns. They answer questions like:
+-   _Wat voor een boek?_ (**What kind of book?**)
+-   _Hoe is het weer?_ (**How is the weather?**)
+
+**Adjective Placement in Dutch**
+Unlike English, where adjectives always come **before the noun** (e.g., a red car), Dutch adjectives **change depending on the noun’s grammatical structure**.
+
+1. **Adjective Before a Noun** (Most Common)
+The adjective comes **before the noun** and takes an extra "-e" ending if the noun has a definite article (_de_ or _het_).
+
+| Dutch	| English |
+| ---- | ---- |
+| _Een mooi huis_ | A beautiful house |
+| _De mooie auto_ | The beautiful car |
+| _Het grote boek_ | The big book |
+| Een klein kind	A small child
+
+2. **Adjective Without an "-e" Ending**
+If a noun is singular, has _een_ (a), and is a _het_-word, the adjective stays unchanged (no "-e" ending).
+
+| Dutch	| English |
+| ---- | ---- |
+| _Een mooi huis_	| A beautiful house |
+| _Een klein kind_ | A small child |
+| _Een groot probleem_ | A big problem |
