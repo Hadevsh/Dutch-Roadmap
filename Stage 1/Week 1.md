@@ -473,3 +473,10 @@ Translate the following English sentences into Dutch:
 -   Review key rules: Subject-Verb-Object (SVO) order, negatives with niet and geen, and forming questions.
 -   Try to create three sentences on your own (one positive, one negative, and one question).
 -   Reflect: Which part was the easiest? Which was the hardest?
+
+### Lesson 6: Expanding Sentences – Adjectives & Describing People and Things
+---
+**Lesson Goals:**
+-   Learn how to use Dutch adjectives to describe people, objects, and places.
+-   Understand adjective placement and rules in Dutch grammar.
+-   Practice forming descriptive sentences with different adjectives.
