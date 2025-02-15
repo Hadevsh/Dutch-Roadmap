@@ -510,3 +510,20 @@ If a noun is singular, has _een_ (a), and is a _het_-word, the adjective stays u
 | _Een mooi huis_	| A beautiful house |
 | _Een klein kind_ | A small child |
 | _Een groot probleem_ | A big problem |
+
+#### Common Dutch Adjectives
+Here are some useful adjectives to describe people, objects, and places:
+
+**Basic Adjectives**
+| Dutch | English | Example Sentence |
+| ---- | ---- | ---- |
+| _Groot_ | Big | _Het is een groot huis._ (**It is a big house.**) |
+| _Klein_ | Small | _De kleine hond speelt._ (**The small dog is playing.**) |
+| _Lang_ | Long/Tall | _Hij is een lange man._ (**He is a tall man.**) |
+| _Kort_ | Short | _Ik heb kort haar._ (**I have short hair.**) |
+| _Mooi_ | Beautiful | _Het is een mooie dag._ (**It is a beautiful day.**) |
+| _Lelijk_ | Ugly | _Dit is een lelijk schilderij._ (**This is an ugly painting.**) |
+| _Goed_ | Good | _Dit is een goed idee._ (**This is a good idea.**) |
+| _Slecht_ | Bad | _Hij heeft een slechte dag._ (**He is having a bad day.**) |
+| _Snel_ | Fast | _De snelle auto rijdt hard._ (**The fast car drives fast.**) |
+| Langzaam	Slow	De trein is langzaam. (The train is slow.)
