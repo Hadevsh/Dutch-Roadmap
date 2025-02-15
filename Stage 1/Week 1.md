@@ -526,4 +526,12 @@ Here are some useful adjectives to describe people, objects, and places:
 | _Goed_ | Good | _Dit is een goed idee._ (**This is a good idea.**) |
 | _Slecht_ | Bad | _Hij heeft een slechte dag._ (**He is having a bad day.**) |
 | _Snel_ | Fast | _De snelle auto rijdt hard._ (**The fast car drives fast.**) |
-| Langzaam	Slow	De trein is langzaam. (The train is slow.)
+| _Langzaam_ | Slow | _De trein is langzaam._ (**The train is slow.**) |
+
+**Practice Exercise:**
+Complete the sentences with the correct adjective:
+-   Ik heb een .......... auto. (big)
+-   Dit is een .......... boek. (interesting)
+-   De .......... kat slaapt. (small)
+-   Mijn vriend heeft een .......... fiets. (fast)
+-   Het is een .......... dag. (beautiful)
