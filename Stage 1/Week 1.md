@@ -561,3 +561,9 @@ Translate These Sentences into Dutch
 -   She has long, brown hair.
 -   This book is interesting.
 -   The house is small but beautiful.
+
+#### Challenge
+Now, **try forming your own sentences** using the adjectives from the lesson. Write 3 sentences describing:
+-   A person you know.
+-   An object in your room.
+-   A place you like.
