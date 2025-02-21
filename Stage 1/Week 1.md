@@ -567,3 +567,8 @@ Now, **try forming your own sentences** using the adjectives from the lesson. Wr
 -   A person you know.
 -   An object in your room.
 -   A place you like.
+
+**Wrap-Up**
+-   Review aloud: Say 5 sentences using adjectives.
+-   Reflection: Which adjectives do you find easiest to remember?
+-   Preview for next lesson: Next, we will learn about colors, opposites, and how to use "_er is / er zijn_" (**there is / there are**)!
