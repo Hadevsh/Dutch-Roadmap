@@ -530,8 +530,8 @@ Here are some useful adjectives to describe people, objects, and places:
 
 **Practice Exercise:**
 Complete the sentences with the correct adjective:
--   Ik heb een .......... auto. (big)
--   Dit is een .......... boek. (interesting)
--   De .......... kat slaapt. (small)
--   Mijn vriend heeft een .......... fiets. (fast)
--   Het is een .......... dag. (beautiful)
+-   _Ik heb een .......... auto._ (**big**)
+-   _Dit is een .......... boek._ (**interesting**)
+-   _De .......... kat slaapt._ (**small**)
+-   _Mijn vriend heeft een .......... fiets._ (**fast**)
+-   _Het is een .......... dag._ (**beautiful**)
