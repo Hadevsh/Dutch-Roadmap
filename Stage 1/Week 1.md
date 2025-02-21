@@ -535,3 +535,21 @@ Complete the sentences with the correct adjective:
 -   _De .......... kat slaapt._ (**small**)
 -   _Mijn vriend heeft een .......... fiets._ (**fast**)
 -   _Het is een .......... dag._ (**beautiful**)
+
+**Using Adjectives to Describe People**
+
+**Describing Physical Appearance**
+| Dutch | English |
+| ---- | ---- |
+| Hij is lang. | He is tall. |
+| Zij heeft blond haar. | She has blonde hair. |
+| Ik heb blauwe ogen. | I have blue eyes. |
+| Mijn broer is sterk. | My brother is strong. |
+
+**Describing Personality**
+| Dutch	| English |
+| ---- | ---- |
+| _Zij is vriendelijk._ | She is friendly. |
+| _Mijn vader is slim._ | My father is smart. |
+| _Hij is grappig._ | He is funny. |
+| _De leraar is streng._ | The teacher is strict. |
