@@ -553,3 +553,11 @@ Complete the sentences with the correct adjective:
 | _Mijn vader is slim._ | My father is smart. |
 | _Hij is grappig._ | He is funny. |
 | _De leraar is streng._ | The teacher is strict. |
+
+#### Practice Exercise:
+Translate These Sentences into Dutch
+-   My friend is tall and strong.
+-   The teacher is funny and smart.
+-   She has long, brown hair.
+-   This book is interesting.
+-   The house is small but beautiful.
