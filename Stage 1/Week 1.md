@@ -572,3 +572,10 @@ Now, **try forming your own sentences** using the adjectives from the lesson. Wr
 -   Review aloud: Say 5 sentences using adjectives.
 -   Reflection: Which adjectives do you find easiest to remember?
 -   Preview for next lesson: Next, we will learn about colors, opposites, and how to use "_er is / er zijn_" (**there is / there are**)!
+
+### Lesson 7: Colors, Opposites, and _Er is / Er zijn_ (There is / There are)
+---
+**Lesson Goals:**
+-   Learn **colors** in Dutch and how to describe objects with them.
+-   Understand common opposites to expand descriptive vocabulary.
+-   Master _er is / er zijn_ (**there is / there are**) to describe existence.
