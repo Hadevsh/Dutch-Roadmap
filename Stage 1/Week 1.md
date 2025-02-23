@@ -579,3 +579,25 @@ Now, **try forming your own sentences** using the adjectives from the lesson. Wr
 -   Learn **colors** in Dutch and how to describe objects with them.
 -   Understand common opposites to expand descriptive vocabulary.
 -   Master _er is / er zijn_ (**there is / there are**) to describe existence.
+
+#### Learning Colors in Dutch
+
+**Why Are Colors Important?**
+Colors help describe objects, clothes, and surroundings. Imagine ordering clothes online or describing your car—colors are essential in everyday conversations!
+
+**Basic Colors**
+Here are the **most common** colors in Dutch:
+
+| Dutch | English | Example Sentence |
+| --- | --- | --- |
+| _Rood_ | Red | _Ik heb een rode jas._ (**I have a red jacket.**) |
+| _Blauw_ | Blue | _De lucht is blauw._ (**The sky is blue.**) |
+| _Geel_ | Yellow | _De zon is geel._ (**The sun is yellow.**) |
+| _Groen_ | Green | _Het gras is groen._ (**The grass is green.**) |
+| _Zwart_ | Black | _Ik draag een zwarte broek._ (**I wear black pants.**) |
+| _Wit_ | White | _De muur is wit._ (**The wall is white.**) |
+| _Oranje_ | Orange | _Ik heb een oranje trui._ (**I have an orange sweater.**) |
+| _Grijs_ | Gray | _De auto is grijs._ (**The car is gray.**) |
+| _Bruin_ | Brown | _De hond is bruin._ (**The dog is brown.**) |
+| _Roze_ | Pink | _Haar jurk is roze._ (**Her dress is pink.**) |
+| _Paars_ | Purple | _Ik zie een paarse bloem._ (**I see a purple flower.**) |
