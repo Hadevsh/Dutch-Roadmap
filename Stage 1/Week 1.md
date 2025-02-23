@@ -601,3 +601,12 @@ Here are the **most common** colors in Dutch:
 | _Bruin_ | Brown | _De hond is bruin._ (**The dog is brown.**) |
 | _Roze_ | Pink | _Haar jurk is roze._ (**Her dress is pink.**) |
 | _Paars_ | Purple | _Ik zie een paarse bloem._ (**I see a purple flower.**) |
+
+**Adjective Agreement for Colors**
+Colors **act like adjectives**, so they follow the **adjective rules** from the previous lesson:
+If the noun uses _de_, the color gets _-e_ at the end:
+-   _De rode auto_ (**The red car**)
+-   _De blauwe jas_ (**The blue jacket**)
+If the noun uses _het_ and has _een_, the color stays unchanged:
+-   _Een rood huis_ (**A red house**)
+-   _Een blauw shirt_ (**A blue shirt**)
