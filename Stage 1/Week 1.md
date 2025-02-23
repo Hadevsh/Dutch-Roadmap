@@ -630,3 +630,10 @@ Opposites are useful for making comparisons and giving details. Here are **key o
 | _Oud_ | Old | _Mijn oma is oud._ (**My grandmother is old.**) |
 | _Licht_ | Light | _Dit is een lichte kamer._ (**This is a light room.**) |
 | _Donker_ | Dark | _Het bos is donker._ (**The forest is dark.**) |
+
+#### **Quick Exercise**:
+Complete the sentences with the opposite word:
+-   De tafel is groot, maar de stoel is ............. (_small_)
+-   Mijn auto is oud, maar jouw auto is ............. (_new_)
+-   De kat is snel, maar de hond is ............. (_slow_)
+-   De kamer is donker, maar de tuin is ............. (_light_)
