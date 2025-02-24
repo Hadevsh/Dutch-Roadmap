@@ -662,3 +662,10 @@ Translate the sentences:
 -   There are many books in the library.
 -   There is no food in the fridge.
 -   There are no children in the park.
+
+#### Challenge – Full Sentences
+Now, **combine colors**, **opposites**, and **_er is / er zijn_** in full sentences. **Try writing 3 sentences** using what you've learned.
+**Example Answers:**
+-   _Er is een groot, blauw huis in de straat._ (**There is a big, blue house on the street.**)
+-   _Er zijn geen zwarte schoenen in de winkel._ (**There are no black shoes in the store.**)
+-   _Mijn telefoon is nieuw, maar mijn laptop is oud._ (**My phone is new, but my laptop is old.**)
