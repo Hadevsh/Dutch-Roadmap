@@ -637,3 +637,21 @@ Complete the sentences with the opposite word:
 -   Mijn auto is oud, maar jouw auto is ............. (_new_)
 -   De kat is snel, maar de hond is ............. (_slow_)
 -   De kamer is donker, maar de tuin is ............. (_light_)
+
+#### Using _Er is_ and _Er zijn_
+
+**What Does _Er is / Er zijn_ Mean?**
+In Dutch, we use _er is_ (**there is**) for **singular nouns** and _er zijn_ (**there are**) for **plural nouns** to describe the existence of something.
+**Examples:**
+| Dutch	| English |
+| --- | --- |
+| _Er is een probleem._ | There is a problem. |
+| _Er is een restaurant hier._ | There is a restaurant here. |
+| _Er zijn veel mensen in het park._ | There are many people in the park. |
+| _Er zijn geen vragen._ | There are no questions. |
+
+**Negative Form:**
+To **negate** these sentences, add _geen_ or _niet_:
+-   _Er is geen brood._ (**There is no bread.**)
+-   _Er zijn geen auto's hier._ (**There are no cars here.**)
+-   _Er is niet veel tijd._ (**There is not much time.**)
