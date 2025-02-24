@@ -669,3 +669,8 @@ Now, **combine colors**, **opposites**, and **_er is / er zijn_** in full senten
 -   _Er is een groot, blauw huis in de straat._ (**There is a big, blue house on the street.**)
 -   _Er zijn geen zwarte schoenen in de winkel._ (**There are no black shoes in the store.**)
 -   _Mijn telefoon is nieuw, maar mijn laptop is oud._ (**My phone is new, but my laptop is old.**)
+
+**Wrap-Up**
+-   Review aloud: Say 5 sentences using colors, opposites, and _er is / er zijn_.
+-   Reflect: What part was easy? What was challenging?
+-   Preview for next lesson: Next, we will learn about prepositions (in, on, under, next to) and how to describe locations!
