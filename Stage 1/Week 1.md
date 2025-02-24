@@ -631,7 +631,7 @@ Opposites are useful for making comparisons and giving details. Here are **key o
 | _Licht_ | Light | _Dit is een lichte kamer._ (**This is a light room.**) |
 | _Donker_ | Dark | _Het bos is donker._ (**The forest is dark.**) |
 
-#### **Quick Exercise**:
+#### Quick Exercise:
 Complete the sentences with the opposite word:
 -   De tafel is groot, maar de stoel is ............. (_small_)
 -   Mijn auto is oud, maar jouw auto is ............. (_new_)
@@ -655,3 +655,10 @@ To **negate** these sentences, add _geen_ or _niet_:
 -   _Er is geen brood._ (**There is no bread.**)
 -   _Er zijn geen auto's hier._ (**There are no cars here.**)
 -   _Er is niet veel tijd._ (**There is not much time.**)
+
+#### Quick Exercise
+Translate the sentences:
+-   There is a cat on the chair.
+-   There are many books in the library.
+-   There is no food in the fridge.
+-   There are no children in the park.
