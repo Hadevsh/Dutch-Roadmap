@@ -108,3 +108,10 @@ Now, **combine colors**, **opposites**, and **_er is / er zijn_** in full senten
 -   Learn common **prepositions** in Dutch.
 -   Understand how to** describe the location of objects and people**.
 -   Practice forming sentences with **prepositions of place**.
+
+#### What Are Prepositions?
+**Why Are Prepositions Important?**
+Prepositions describe the **position** of objects, people, and places. They tell us where something is in relation to something else.
+For example:
+-   _Het boek ligt op de tafel._ (**The book is on the table.**)
+-   _De kat zit onder de stoel._ (**The cat is under the chair.**)
