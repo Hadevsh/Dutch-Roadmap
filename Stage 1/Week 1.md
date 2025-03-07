@@ -128,3 +128,12 @@ For example:
 | Tegen      | Against          | _De fiets staat **tegen** de muur._ (**The bike is against the wall.**) |
 | Boven      | Above            | _De lamp hangt **boven** de tafel._ (**The lamp is above the table.**) |
 | Onder      | Below            | _De schoenen staan **onder** het bed._ (**The shoes are below the bed.**) |
+
+#### How to Use Prepositions in Sentences
+Dutch prepositions work similarly to English ones. They usually come **before the noun** they describe.
+
+**Sentence Structure:**
+**Subject + verb + preposition + object**
+1.  _De kat zit onder de stoel._ (**The cat is under the chair.**)
+2.  _Mijn huis staat naast de school._ (**My house is next to the school.**)
+3.  _De sleutels liggen op de tafel._ (**The keys are on the table.**)
