@@ -118,16 +118,16 @@ For example:
 #### Common Dutch Prepositions of Place
 | **Dutch**  | **English**      | **Example Sentence** |
 |------------|------------------|----------------------|
-| Op         | On               | _De telefoon ligt **op** de tafel._ (**The phone is on the table.**) |
-| Onder      | Under            | _De kat zit **onder** de stoel._ (**The cat is under the chair.**) |
-| In         | In               | _Het water is **in** het glas._ (**The water is in the glass.**) |
-| Voor       | In front of      | _Ik sta **voor** het huis._ (**I am in front of the house.**) |
-| Achter     | Behind           | _De auto staat **achter** het gebouw._ (**The car is behind the building.**) |
-| Naast      | Next to          | _De supermarkt is **naast** de bank._ (**The supermarket is next to the bank.**) |
-| Tussen     | Between          | _De hond ligt **tussen** de stoelen._ (**The dog is between the chairs.**) |
-| Tegen      | Against          | _De fiets staat **tegen** de muur._ (**The bike is against the wall.**) |
-| Boven      | Above            | _De lamp hangt **boven** de tafel._ (**The lamp is above the table.**) |
-| Onder      | Below            | _De schoenen staan **onder** het bed._ (**The shoes are below the bed.**) |
+| _Op_       | On               | _De telefoon ligt **op** de tafel._ (**The phone is on the table.**) |
+| _Onder_    | Under            | _De kat zit **onder** de stoel._ (**The cat is under the chair.**) |
+| _In_       | In               | _Het water is **in** het glas._ (**The water is in the glass.**) |
+| _Voor_     | In front of      | _Ik sta **voor** het huis._ (**I am in front of the house.**) |
+| _Achter_   | Behind           | _De auto staat **achter** het gebouw._ (**The car is behind the building.**) |
+| _Naast_    | Next to          | _De supermarkt is **naast** de bank._ (**The supermarket is next to the bank.**) |
+| _Tussen_   | Between          | _De hond ligt **tussen** de stoelen._ (**The dog is between the chairs.**) |
+| _Tegen_    | Against          | _De fiets staat **tegen** de muur._ (**The bike is against the wall.**) |
+| _Boven_    | Above            | _De lamp hangt **boven** de tafel._ (**The lamp is above the table.**) |
+| _Onder_    | Below            | _De schoenen staan **onder** het bed._ (**The shoes are below the bed.**) |
 
 #### How to Use Prepositions in Sentences
 Dutch prepositions work similarly to English ones. They usually come **before the noun** they describe.
