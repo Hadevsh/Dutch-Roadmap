@@ -115,3 +115,16 @@ Prepositions describe the **position** of objects, people, and places. They tell
 For example:
 -   _Het boek ligt op de tafel._ (**The book is on the table.**)
 -   _De kat zit onder de stoel._ (**The cat is under the chair.**)
+#### Common Dutch Prepositions of Place
+| **Dutch**  | **English**      | **Example Sentence** |
+|------------|------------------|----------------------|
+| Op         | On               | _De telefoon ligt **op** de tafel._ (**The phone is on the table.**) |
+| Onder      | Under            | _De kat zit **onder** de stoel._ (**The cat is under the chair.**) |
+| In         | In               | _Het water is **in** het glas._ (**The water is in the glass.**) |
+| Voor       | In front of      | _Ik sta **voor** het huis._ (**I am in front of the house.**) |
+| Achter     | Behind           | _De auto staat **achter** het gebouw._ (**The car is behind the building.**) |
+| Naast      | Next to          | _De supermarkt is **naast** de bank._ (**The supermarket is next to the bank.**) |
+| Tussen     | Between          | _De hond ligt **tussen** de stoelen._ (**The dog is between the chairs.**) |
+| Tegen      | Against          | _De fiets staat **tegen** de muur._ (**The bike is against the wall.**) |
+| Boven      | Above            | _De lamp hangt **boven** de tafel._ (**The lamp is above the table.**) |
+| Onder      | Below            | _De schoenen staan **onder** het bed._ (**The shoes are below the bed.**) |
