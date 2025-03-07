@@ -101,3 +101,10 @@ Now, **combine colors**, **opposites**, and **_er is / er zijn_** in full senten
 -   Review aloud: Say 5 sentences using colors, opposites, and _er is / er zijn_.
 -   Reflect: What part was easy? What was challenging?
 -   Preview for next lesson: Next, we will learn about prepositions (in, on, under, next to) and how to describe locations!
+
+### Lesson 8: Prepositions & Describing Locations
+---
+**Lesson Goals:**
+-   Learn common **prepositions** in Dutch.
+-   Understand how to** describe the location of objects and people**.
+-   Practice forming sentences with **prepositions of place**.
