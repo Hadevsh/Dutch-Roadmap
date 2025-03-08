@@ -179,3 +179,8 @@ Write a short **dialogue using prepositions**. Try to describe where 3 objects a
 3. The supermarket is next to the bank.  
 4. The children are in the park.  
 5. The painting is above the bed.  
+
+#### Wrap-Up
+- **Review aloud:** Say 5 sentences using prepositions.  
+- **Reflect:** Which prepositions were easy? Which were harder?  
+- **Preview for next lesson:** Next, we will learn about **talking about time – days, months, hours, and telling time in Dutch!**  
