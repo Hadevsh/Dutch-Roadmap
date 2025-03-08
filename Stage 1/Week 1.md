@@ -161,3 +161,13 @@ To ask where something is in Dutch, we use:
 -   Where is my book?
 -   Where are the children?
 -   Where is the school?
+
+#### Using Prepositions in a Dialogue
+**Read and practice the following conversation:**
+A: *Waar is mijn telefoon?* (**Where is my phone?**)  
+B: *Je telefoon ligt op de tafel.* (**Your phone is on the table.**)  
+A: *En waar zijn mijn sleutels?* (**And where are my keys?**)  
+B: *Je sleutels zijn in je tas.* (**Your keys are in your bag.**)  
+
+### **Challenge:**  
+Write a short **dialogue using prepositions**. Try to describe where 3 objects are!
