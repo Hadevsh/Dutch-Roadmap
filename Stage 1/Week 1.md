@@ -171,3 +171,11 @@ B: *Je sleutels zijn in je tas.* (**Your keys are in your bag.**)
 
 ### **Challenge:**  
 Write a short **dialogue using prepositions**. Try to describe where 3 objects are!
+
+#### Translation Challenge
+**Translate the following sentences into Dutch:**
+1. The laptop is on the desk.  
+2. The cat is between the chairs.  
+3. The supermarket is next to the bank.  
+4. The children are in the park.  
+5. The painting is above the bed.  
