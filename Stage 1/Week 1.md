@@ -156,3 +156,8 @@ To ask where something is in Dutch, we use:
 | _Waar is de hond?_         | _De hond is **onder** de tafel._ (**The dog is under the table.**) |
 | _Waar is de supermarkt?_   | _De supermarkt is **naast** de bank._ (**The supermarket is next to the bank.**) |
 | _Waar zijn mijn sleutels?_ | _Je sleutels zijn **op** de tafel._ (**Your keys are on the table.**) |
+
+#### Quick Exercise
+-   Where is my book?
+-   Where are the children?
+-   Where is the school?
