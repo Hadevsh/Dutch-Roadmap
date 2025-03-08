@@ -116,7 +116,7 @@ For example:
 -   _Het boek ligt op de tafel._ (**The book is on the table.**)
 -   _De kat zit onder de stoel._ (**The cat is under the chair.**)
 #### Common Dutch Prepositions of Place
-| **Dutch**  | **English**      | **Example Sentence** |
+|   Dutch    |   English        |   Example Sentence   |
 |------------|------------------|----------------------|
 | _Op_       | On               | _De telefoon ligt **op** de tafel._ (**The phone is on the table.**) |
 | _Onder_    | Under            | _De kat zit **onder** de stoel._ (**The cat is under the chair.**) |
@@ -144,3 +144,15 @@ Complete the sentences with the correct preposition:
 -   _De kinderen zitten ...... de bank._ (**on/under/behind**)
 -   _De auto staat ...... het huis._ (**next to/behind/in front of**)
 -   _Het schilderij hangt ...... de muur._ (**on/in front of/above**)
+
+#### Asking and Answering "Where" Questions
+To ask where something is in Dutch, we use:
+-   _Waar is...?_ (**Where is...?**) for singular
+-   _Waar zijn...?_ (**Where are...?**) for plural
+
+### Examples:
+| Question                   | Answer                              |
+|----------------------------|-------------------------------------|
+| _Waar is de hond?_         | _De hond is **onder** de tafel._ (**The dog is under the table.**) |
+| _Waar is de supermarkt?_   | _De supermarkt is **naast** de bank._ (**The supermarket is next to the bank.**) |
+| _Waar zijn mijn sleutels?_ | _Je sleutels zijn **op** de tafel._ (**Your keys are on the table.**) |
