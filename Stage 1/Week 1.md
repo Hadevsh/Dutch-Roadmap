@@ -137,3 +137,10 @@ Dutch prepositions work similarly to English ones. They usually come **before th
 1.  _De kat zit onder de stoel._ (**The cat is under the chair.**)
 2.  _Mijn huis staat naast de school._ (**My house is next to the school.**)
 3.  _De sleutels liggen op de tafel._ (**The keys are on the table.**)
+
+#### Quick Exercise
+Complete the sentences with the correct preposition:
+-   _De schoenen staan ...... de kast._ (**in/on/under**)
+-   _De kinderen zitten ...... de bank._ (**on/under/behind**)
+-   _De auto staat ...... het huis._ (**next to/behind/in front of**)
+-   _Het schilderij hangt ...... de muur._ (**on/in front of/above**)
