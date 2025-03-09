@@ -232,3 +232,22 @@ Talking about dates and months helps you schedule meetings, plan holidays, and t
 **Examples:**
 -   _Ik ben jarig in augustus._ – My birthday is in August.  
 -   _De zomer is warm._ – The summer is warm.  
+
+#### Parts of the Day & Daily Routines
+
+| Dutch            | English              | Example                          |
+|------------------|----------------------|----------------------------------|
+| _'s Ochtends_      | In the morning        | _Ik werk 's ochtends._ (**I work in the morning.**) |
+| _'s Middags_       | In the afternoon      | _Hij eet 's middags._ (**He eats in the afternoon.**) |
+| _'s Avonds_        | In the evening        | _Wij koken 's avonds._ (**We cook in the evening.**) |
+| _'s Nachts_        | At night              | _Zij slaapt 's nachts._ (**She sleeps at night.**)  |
+| _Vanochtend_       | This morning          |  
+| _Vanmiddag_        | This afternoon        |  
+| _Vanavond_         | This evening          |  
+
+**Time-Related Words:**
+- _Vandaag_ – Today  
+- _Morgen_ – Tomorrow  
+- _Gisteren_ – Yesterday  
+- _Overmorgen_ – The day after tomorrow  
+- _Eergisteren_ – The day before yesterday  
