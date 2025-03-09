@@ -43,7 +43,7 @@ If the noun uses _het_ and has _een_, the color stays unchanged:
 **Common Opposites in Dutch**
 Opposites are useful for making comparisons and giving details. Here are **key opposites**:
 
-| Dutch	English	Example Sentence
+| Dutch |	English |	Example Sentence |
 | --- | --- | --- |
 | _Groot_ | Big | _Het is een groot huis._ (**It is a big house.**) |
 | _Klein_ | Small | _De hond is klein._ (**The dog is small**.) |
