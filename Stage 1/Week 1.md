@@ -313,3 +313,8 @@ d) 1:00
 
 ## **Challenge: Make Your Own Schedule**  
 Write 3 sentences about your daily routine. Use time expressions and parts of the day.  
+
+#### Wrap-Up
+- **Say aloud:** 5 different time expressions in Dutch.  
+- **Review:** months, telling time, and daily expressions.  
+- **Reflect:** Which form of telling time felt more natural to you—24-hour or relative time?
