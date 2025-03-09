@@ -277,3 +277,39 @@ Talking about dates and months helps you schedule meetings, plan holidays, and t
 | _Het is twintig voor zes._      | It is twenty to six.        |
 
 > **Important:** _“Half drie”_ means 2:30, not 3:30! It literally means "half of three."
+
+#### The 24-Hour Clock
+Common in public transport, schedules, and formal settings.
+| Dutch          | English       |
+|--------------------|-------------------|
+| _Het is 14:00 uur._ | It is 2:00 PM.    |
+| _Het is 21:30 uur._ | It is 9:30 PM.    |
+
+#### Practice Exercises
+
+**Match Dutch to English**
+Match the Dutch time expression to its English meaning:  
+1. Kwart voor vijf  
+2. Half zes  
+3. Tien over acht  
+4. Het is één uur  
+
+a) 8:10  
+b) 4:45  
+c) 5:30  
+d) 1:00 
+
+**Fill in the Blanks**
+1. *Mijn verjaardag is in .......* (June)  
+2. *Wij eten samen 's .......* (evening)  
+3. *De trein vertrekt om ...... uur.* (3 PM, in 24-hour time)  
+4. *Het is ...... over zeven.* (quarter)  
+
+**Translate to Dutch**
+1. It is twenty past nine.  
+2. Tomorrow I work in the afternoon.  
+3. The train leaves at 8:15 AM.  
+4. I have a meeting at half past four.  
+
+## **Challenge: Make Your Own Schedule**  
+Write 3 sentences about your daily routine. Use time expressions and parts of the day.  
