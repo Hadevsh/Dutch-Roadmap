@@ -184,3 +184,10 @@ Write a short **dialogue using prepositions**. Try to describe where 3 objects a
 - **Review aloud:** Say 5 sentences using prepositions.  
 - **Reflect:** Which prepositions were easy? Which were harder?  
 - **Preview for next lesson:** Next, we will learn about **talking about time – days, months, hours, and telling time in Dutch!**  
+
+### Lesson 9: Talking About Time – Days, Months & Telling Time in Dutch
+---
+**Lesson Goals:**
+-   Learn how to say **dates, months, and parts of the day** in Dutch.
+-   Understand how to **tell the time** using both formal (24-hour clock) and informal structures.
+-   Practice using time expressions in sentences and short dialogues.
