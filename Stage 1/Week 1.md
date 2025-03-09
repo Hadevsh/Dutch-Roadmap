@@ -265,3 +265,15 @@ Talking about dates and months helps you schedule meetings, plan holidays, and t
 -   _Over_ – past  
 -   _Voor_ – to  
 -   _Tijd_ – time  
+
+#### Telling the Time: Examples
+| Dutch                         | English                     |
+|-------------------------------|-----------------------------|
+| _Het is één uur._               | It is one o’clock.          |
+| _Het is kwart over twee._       | It is quarter past two.     |
+| _Het is half drie._             | It is half past two. (literally: half *of* three) |
+| _Het is kwart voor vier._       | It is quarter to four.      |
+| _Het is tien over vijf._        | It is ten past five.        |
+| _Het is twintig voor zes._      | It is twenty to six.        |
+
+> **Important:** _“Half drie”_ means 2:30, not 3:30! It literally means "half of three."
