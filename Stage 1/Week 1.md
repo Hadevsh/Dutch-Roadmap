@@ -251,3 +251,17 @@ Talking about dates and months helps you schedule meetings, plan holidays, and t
 - _Gisteren_ – Yesterday  
 - _Overmorgen_ – The day after tomorrow  
 - _Eergisteren_ – The day before yesterday  
+
+#### Telling Time in Dutch
+**Structure Overview**
+- Dutch uses both **12-hour** and **24-hour** systems.
+- Colloquial Dutch often uses **relative time** (like "half past" or "quarter to").
+
+### **Key Vocabulary**
+-   _Uur_ – hour  
+-   _Minuut_ – minute  
+-   _Halve_ – half  
+-   _Kwart_ – quarter  
+-   _Over_ – past  
+-   _Voor_ – to  
+-   _Tijd_ – time  
