@@ -191,3 +191,33 @@ Write a short **dialogue using prepositions**. Try to describe where 3 objects a
 -   Learn how to say **dates, months, and parts of the day** in Dutch.
 -   Understand how to **tell the time** using both formal (24-hour clock) and informal structures.
 -   Practice using time expressions in sentences and short dialogues.
+------------------------
+# **Lesson 9: Talking About Time – Days, Months & Telling Time in Dutch**  
+
+### **Lesson Goals:**  
+- Learn how to say **dates, months, and parts of the day** in Dutch.  
+- Understand how to **tell the time** using both formal (24-hour clock) and informal structures.  
+- Practice using time expressions in sentences and short dialogues.  
+
+---
+
+#### Months & Seasons in Dutch
+**Why Is It Important?**  
+Talking about dates and months helps you schedule meetings, plan holidays, and talk about the past or future. Dutch months are similar to English, so they’re easy to learn.  
+
+**Months of the Year**
+
+| Dutch            | English        | Pronunciation      |
+|------------------|----------------|--------------------|
+| _Januari_          | January         | yah-nu-ah-ree     |
+| _Februari_         | February        | fay-bru-ah-ree    |
+| _Maart_            | March           | maahrt            |
+| _April_            | April           | ah-pril           |
+| _Mei_              | May             | may               |
+| _Juni_             | June            | yoo-nee           |
+| _Juli_             | July            | yoo-lee           |
+| _Augustus_         | August          | ow-ghus-tus       |
+| _September_        | September       | sep-tem-ber       |
+| _Oktober_          | October         | ok-toe-ber        |
+| _November_         | November        | no-vem-ber        |
+| _December_         | December        | day-sem-ber       |
