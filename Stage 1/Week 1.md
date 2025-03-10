@@ -191,15 +191,6 @@ Write a short **dialogue using prepositions**. Try to describe where 3 objects a
 -   Learn how to say **dates, months, and parts of the day** in Dutch.
 -   Understand how to **tell the time** using both formal (24-hour clock) and informal structures.
 -   Practice using time expressions in sentences and short dialogues.
-------------------------
-# **Lesson 9: Talking About Time – Days, Months & Telling Time in Dutch**  
-
-### **Lesson Goals:**  
--   Learn how to say **dates, months, and parts of the day** in Dutch.  
--   Understand how to **tell the time** using both formal (24-hour clock) and informal structures.  
--   Practice using time expressions in sentences and short dialogues.  
-
----
 
 #### Months & Seasons in Dutch
 **Why Is It Important?**  
@@ -318,3 +309,10 @@ Write 3 sentences about your daily routine. Use time expressions and parts of th
 - **Say aloud:** 5 different time expressions in Dutch.  
 - **Review:** months, telling time, and daily expressions.  
 - **Reflect:** Which form of telling time felt more natural to you—24-hour or relative time?
+
+### Lesson 10: Talking About Family, Relationships & Possession in Dutch
+---
+**Lesson Goals:**
+-   Learn vocabulary related to **family and relationships**.
+-   Understand how to express **possession** using possessive pronouns like _mijn_, _jouw_, etc.
+-   Practice building personal sentences to describe people in your life.
