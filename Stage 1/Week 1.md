@@ -403,4 +403,15 @@ Use the correct possessive pronoun:
 2. Their children play outside every afternoon.  
 3. Our grandpa lives in a small house.  
 4. My brother is taller than your brother.  
-5. Is this your dog or his?  
+5. Is this your dog or his?
+
+#### Personal Challenge
+Write a short paragraph (3–5 sentences) in Dutch about your family. Mention:  
+- How many siblings you have  
+- Where someone lives  
+- Something about your parents or grandparents  
+
+#### Wrap-Up   
+- **Review aloud:** Family members + possessive pronouns.  
+- **Try this:** Tell someone (or imagine it) about your family in Dutch.  
+- **Reflect:** Which family words are easiest to remember? Any similar to your native language?
