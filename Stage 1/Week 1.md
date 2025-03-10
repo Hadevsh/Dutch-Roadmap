@@ -365,7 +365,42 @@ Possessive pronouns show **ownership or relationships** (e.g., _my_, _your_, _hi
 
 > ✅ Use **_ons_** for **_het_-words** and **_onze_** for **_de_-words**.
 
-#### **Examples in Context:**  
+**Examples in Context:**  
 -   _Jouw vader is aardig._ – Your father is kind.  
 -   _Haar broer woont in België._ – Her brother lives in Belgium.  
 -   _Onze leraar is streng._ – Our teacher is strict.  
+
+#### Describing Family & Possession
+Try combining family vocabulary with possessive pronouns in full sentences:  
+1. _Mijn zus woont in Amsterdam._
+2. _Hun kinderen spreken Nederlands._
+3. _Zijn moeder is arts._
+4. _Onze opa woont in een dorp._
+
+**Mini Dialogue Practice:**
+**A:** Heb jij broers of zussen?  
+**B:** Ja, ik heb één broer en twee zussen. En jij?  
+**A:** Ik heb een zus. Haar naam is Sophie.  
+
+#### Exercises
+
+**Translate to English**
+1. Mijn vader heet Jan.  
+2. Haar dochter is slim.  
+3. Onze moeder werkt op school.  
+4. Jouw opa woont in Utrecht.  
+
+**Fill in the Blanks**  
+Use the correct possessive pronoun:
+1. ...... moeder is 45 jaar oud. (*my*)  
+2. Waar is ...... hond? (*your – informal*)  
+3. ...... kinderen zijn heel stil. (*their*)  
+4. ...... boek ligt op tafel. (*her*)  
+5. ...... broer studeert in Rotterdam. (*his*)  
+
+**Translate to Dutch**
+1. Her mother and my father are teachers.  
+2. Their children play outside every afternoon.  
+3. Our grandpa lives in a small house.  
+4. My brother is taller than your brother.  
+5. Is this your dog or his?  
