@@ -316,3 +316,35 @@ Write 3 sentences about your daily routine. Use time expressions and parts of th
 -   Learn vocabulary related to **family and relationships**.
 -   Understand how to express **possession** using possessive pronouns like _mijn_, _jouw_, etc.
 -   Practice building personal sentences to describe people in your life.
+
+#### Family & Relationships Vocabulary
+**Why Is This Important?**  
+Talking about your family is a key part of everyday conversation, especially when getting to know someone. In Dutch, relationship terms are simple and frequently used.
+
+**Core Family Vocabulary**
+| **Dutch**        | **English**        |
+|------------------|--------------------|
+| _Familie_          | Family             |
+| _Vader_            | Father             |
+| _Moeder_           | Mother             |
+| _Ouders_           | Parents            |
+| _Zoon_             | Son                |
+| _Dochter_          | Daughter           |
+| _Kind_             | Child              |
+| _Kinderen_         | Children           |
+| _Broer_            | Brother            |
+| _Zus_              | Sister             |
+| _Opa_              | Grandpa            |
+| _Oma_              | Grandma            |
+| _Neef_             | Nephew / Male cousin |
+| _Nicht_            | Niece / Female cousin |
+| _Echtgenoot_       | Husband            |
+| _Echtgenote_       | Wife               |
+| _Vriend_           | Boyfriend / Friend |
+| _Vriendin_         | Girlfriend / Female friend |
+> 💡 _Neef_ and _nicht_ can mean cousin or niece/nephew — context is important.
+
+**Example Sentences:**
+-   _Mijn moeder heet Anna._ – My mother is named Anna.  
+-   _Ik heb een broer en een zus._ – I have a brother and a sister.  
+-   _Onze opa is 75 jaar oud._ – Our grandpa is 75 years old.  
