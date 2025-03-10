@@ -322,7 +322,7 @@ Write 3 sentences about your daily routine. Use time expressions and parts of th
 Talking about your family is a key part of everyday conversation, especially when getting to know someone. In Dutch, relationship terms are simple and frequently used.
 
 **Core Family Vocabulary**
-| **Dutch**        | **English**        |
+| Dutch            | English            |
 |------------------|--------------------|
 | _Familie_          | Family             |
 | _Vader_            | Father             |
@@ -348,3 +348,24 @@ Talking about your family is a key part of everyday conversation, especially whe
 -   _Mijn moeder heet Anna._ – My mother is named Anna.  
 -   _Ik heb een broer en een zus._ – I have a brother and a sister.  
 -   _Onze opa is 75 jaar oud._ – Our grandpa is 75 years old.  
+
+#### Possessive Pronouns
+**What Are Possessive Pronouns?**  
+Possessive pronouns show **ownership or relationships** (e.g., _my_, _your_, _his_). In Dutch, they are simple and consistent in form.
+
+| Dutch          | English          | Example                        |
+|----------------|------------------|------------------------------------|
+| _Mijn_           | My               | *Mijn moeder werkt thuis.*  |
+| _Jouw / Je_      | Your (informal)  | *Jouw hond is schattig.*  |
+| _Uw_             | Your (formal)    | *Uw naam alstublieft?*  |
+| _Zijn_           | His              | *Zijn auto is blauw.*  |
+| _Haar_           | Her              | *Haar boek is interessant.*  |
+| _Ons / Onze_     | Our              | *Ons huis / Onze auto*  |
+| _Hun_            | Their            | *Hun kinderen zijn lief.*  |
+
+> ✅ Use **_ons_** for **_het_-words** and **_onze_** for **_de_-words**.
+
+#### **Examples in Context:**  
+-   _Jouw vader is aardig._ – Your father is kind.  
+-   _Haar broer woont in België._ – Her brother lives in Belgium.  
+-   _Onze leraar is streng._ – Our teacher is strict.  
