@@ -355,3 +355,25 @@ Write a short paragraph (3–5 sentences) in Dutch about your family. Mention:
 -   *Ik lees graag boeken.* – I like reading books.  
 -   *Zij eet graag pasta.* – She likes eating pasta.  
 -   *Wij sporten graag in het park.* – We enjoy exercising in the park.
+
+#### Common Hobbies Vocabulary
+| Dutch            | English             |
+|------------------|---------------------|
+| _Lezen_            | Reading             |
+| _Schrijven_        | Writing             |
+| _Muziek luisteren_ | Listening to music  |
+| _Tekenen_          | Drawing             |
+| _Koken_            | Cooking             |
+| _Reizen_           | Traveling           |
+| _Fietsen_          | Biking              |
+| _Wandelen_         | Walking             |
+| _Zwemmen_          | Swimming            |
+| _Films kijken_     | Watching movies     |
+| _Gamen_            | Gaming              |
+| _Sporten_          | Doing sports        |
+| _Dansen_           | Dancing             |
+
+**Practice Sentences:**
+-   *Ik hou van tekenen.* – I love drawing.  
+-   *Hij vindt zwemmen leuk.* – He likes swimming.  
+-   *Wij kijken graag films.* – We like watching movies.  
