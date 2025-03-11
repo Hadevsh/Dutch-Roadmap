@@ -377,3 +377,11 @@ Write a short paragraph (3–5 sentences) in Dutch about your family. Mention:
 -   *Ik hou van tekenen.* – I love drawing.  
 -   *Hij vindt zwemmen leuk.* – He likes swimming.  
 -   *Wij kijken graag films.* – We like watching movies.  
+
+#### Expressing Dislikes
+To express dislike, you use **_niet_ (not)** or **_geen_ (no)** with the verbs above.
+
+**Examples:**
+-   *Ik hou niet van kaas.* – I don’t like cheese.  
+-   *Zij vindt voetbal niet leuk.* – She doesn’t like football.  
+-   *Wij koken niet graag.* – We don’t enjoy cooking.  
