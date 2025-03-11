@@ -418,3 +418,8 @@ Write 3 sentences about:
 -   Ik hou van films kijken.  
 -   Ik lees graag in de avond.  
 -   Ik hou niet van regen.  
+
+#### Wrap-Up
+-   **Review aloud:** 5 hobby-related sentences using different verbs.  
+-   **Reflect:** Which verb construction felt most natural to you?  
+-   **Practice:** Talk out loud about your hobbies for 1 minute in Dutch!
