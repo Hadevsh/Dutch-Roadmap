@@ -319,3 +319,39 @@ Write a short paragraph (3–5 sentences) in Dutch about your family. Mention:
 - Learn how to express **likes and dislikes** in Dutch.  
 - Understand the verbs _houden van_, _leuk vinden_, and _graag doen_.  
 - Practice talking about your **hobbies and preferences** in everyday conversation.
+
+#### Expressing Likes and Preferences
+💬 There are 3 main ways to say you like something in Dutch:
+| Expression            | Literal Meaning            | Use it when…                                      |
+|-----------------------|----------------------------|---------------------------------------------------|
+| _houden van_          | to love                    | You like/love something deeply (strong preference) |
+| _leuk vinden_         | to find something nice     | You find something enjoyable/pleasant             |
+| _graag doen / eten_   | to like doing/eating       | You enjoy doing something (used with verbs)       |
+
+#### 1. _Houden van_ (To love / like strongly)
+- Used to express **affection** or strong preference.
+- Always followed by a noun or pronoun, often with _ik hou van..._
+
+**Examples:**
+-   *Ik hou van muziek.* – I love music.  
+-   *Zij houdt van haar hond.* – She loves her dog.  
+-   *Wij houden van reizen.* – We love to travel.
+> Note: “*Hou*” is the short form of *houden* used in daily speech: *Ik hou van...* = I like/love...
+
+#### 2. _Leuk vinden_ (To find something nice/enjoyable)
+- Used to express **mild enjoyment**.
+- Always in the structure: *[Subject] + vindt/vinden + [noun] + leuk*
+
+**Examples:**
+-   *Ik vind voetbal leuk.* – I like football.  
+-   *Hij vindt haar leuk.* – He likes her.  
+-   *We vinden het leuk om samen te koken.* – We like cooking together.
+
+#### 3. _Graag doen/hebben/eten_ (To like doing/having/eating)
+-   Used with **verbs**: indicates that you **like doing** something.
+-   Word *graag* comes **after the verb**.
+
+**Examples:**
+-   *Ik lees graag boeken.* – I like reading books.  
+-   *Zij eet graag pasta.* – She likes eating pasta.  
+-   *Wij sporten graag in het park.* – We enjoy exercising in the park.
