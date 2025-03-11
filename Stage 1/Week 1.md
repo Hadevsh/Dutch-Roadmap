@@ -313,3 +313,10 @@ Write a short paragraph (3–5 sentences) in Dutch about your family. Mention:
 - **Review aloud:** Family members + possessive pronouns.  
 - **Try this:** Tell someone (or imagine it) about your family in Dutch.  
 - **Reflect:** Which family words are easiest to remember? Any similar to your native language?
+
+------------------------------
+### Lesson 10: Talking About Family, Relationships & Possession in Dutch
+**Lesson Goals:**  
+- Learn vocabulary related to **family and relationships**.  
+- Understand how to express **possession** using possessive pronouns like _mijn_, _jouw_, etc.  
+- Practice building personal sentences to describe people in your life.  
