@@ -385,3 +385,36 @@ To express dislike, you use **_niet_ (not)** or **_geen_ (no)** with the verbs a
 -   *Ik hou niet van kaas.* – I don’t like cheese.  
 -   *Zij vindt voetbal niet leuk.* – She doesn’t like football.  
 -   *Wij koken niet graag.* – We don’t enjoy cooking.  
+
+#### Exercises
+**Translate to English**
+1. Ik hou van muziek.  
+2. Hij vindt voetbal leuk.  
+3. Wij wandelen graag in het bos.  
+4. Zij houdt niet van honden.  
+
+**Fill in the blanks**
+Use the correct form of *houden van*, *leuk vinden*, or *graag doen*:
+1. Ik ...... van chocolade.  
+2. Zij ...... het leuk om te reizen.  
+3. Wij ...... graag op zaterdag. (*sporten*)  
+4. Hij ...... tekenen leuk.  
+5. Jij ...... niet van kaas, toch?  
+
+**Translate to Dutch**
+1. We love reading and listening to music.  
+2. Do you like dancing?  
+3. He doesn’t enjoy cooking.  
+4. I find this game fun.  
+5. They like biking in the city.  
+
+#### Personal Practice
+Write 3 sentences about:  
+1. Something you love  
+2. Something you enjoy doing  
+3. Something you don’t like  
+
+**Example:**  
+-   Ik hou van films kijken.  
+-   Ik lees graag in de avond.  
+-   Ik hou niet van regen.  
