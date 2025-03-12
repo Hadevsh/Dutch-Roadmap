@@ -499,3 +499,32 @@ Used for future intentions, suggestions, or polite offers.
 | _Zullen we samen koken?_      | Shall we cook together?         |
 | _Ik zal morgen bellen._       | I will call tomorrow.           |
 | _Wat zullen we doen?_         | What shall we do?               |
+
+#### Exercises
+**Match the Verb to Its Meaning**
+1. Moeten  
+2. Kunnen  
+3. Willen  
+4. Gaan  
+
+a) To want  
+b) To go  
+c) To have to  
+d) To be able to  
+
+**Fill in the blanks**
+1. Ik ...... morgen naar school. (*go*)  
+2. Jij ...... goed dansen. (*can*)  
+3. Wij ...... pizza eten vanavond. (*want to*)  
+4. Hij ...... elke dag werken. (*has to*)  
+5. ...... jullie mee naar het feest? (*will*)  
+
+**Translate to Dutch**
+1. I want to learn Dutch.  
+2. She can speak English very well.  
+3. We have to leave now.  
+4. Are you going to the party?  
+5. What shall we do tomorrow?
+
+**Make a Weekly Plan**
+Write 3–5 sentences about what you’re going to do this week using **_gaan_**, **_moeten_**, and **_willen_**.
