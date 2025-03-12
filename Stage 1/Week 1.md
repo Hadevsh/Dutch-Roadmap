@@ -423,3 +423,11 @@ Write 3 sentences about:
 -   **Review aloud:** 5 hobby-related sentences using different verbs.  
 -   **Reflect:** Which verb construction felt most natural to you?  
 -   **Practice:** Talk out loud about your hobbies for 1 minute in Dutch!
+
+-----------------------------------------------
+### Lesson 12: Making Plans – Modal Verbs ("willen", "kunnen", "moeten") & Future Tense
+**Lesson Goals:**
+-   Understand and use **modal verbs**: _willen_ (to want), _kunnen_ (to be able to), _moeten_ (to have to/must).
+-   Learn how to talk about **intentions, possibilities, and obligations**.
+-   Get introduced to the **future tense** in Dutch using _gaan_ (going to) and _zullen_ (will).
+-   Practice forming questions and responses related to plans and responsibilities.
