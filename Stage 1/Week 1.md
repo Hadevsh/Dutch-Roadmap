@@ -431,3 +431,53 @@ Write 3 sentences about:
 -   Learn how to talk about **intentions, possibilities, and obligations**.
 -   Get introduced to the **future tense** in Dutch using _gaan_ (going to) and _zullen_ (will).
 -   Practice forming questions and responses related to plans and responsibilities.
+
+#### Modal Verbs in Dutch
+**What Are Modal Verbs?**
+Modal verbs help express **ability, desire, necessity**, or **permission**. In Dutch, these verbs are usually followed by another verb in the **infinitive form** (e.g., *werken*, *gaan*, *zien*).
+
+#### **1. Willen** – to want
+| Pronoun     | Conjugation     |
+|-------------|-----------------|
+| _Ik_          | _wil_             |
+| _Jij / Je_    | _wilt_            |
+| _U_           | _wilt_            |
+| _Hij / Zij_   | _wil_             |
+| _Wij / Jullie / Zij_ | _willen_     |
+
+**Examples:**
+-   _Ik wil naar de bioscoop gaan._ – I want to go to the cinema.
+-   _Wil je iets drinken?_ – Do you want something to drink?
+
+#### **2. Kunnen** – to be able to / can
+| Pronoun     | Conjugation     |
+|-------------|-----------------|
+| _Ik_          | _kan_             |
+| _Jij / Je_    | _kunt_            |
+| _U_           | _kunt_            |
+| _Hij / Zij_   | _kan_             |
+| _Wij / Jullie / Zij_ | _kunnen_     |
+
+**Examples:**
+-   _Ik kan goed koken._ – I can cook well.
+-   _Kun jij morgen komen?_ – Can you come tomorrow?
+
+#### **3. Moeten** – to have to / must
+| Pronoun     | Conjugation     |
+|-------------|-----------------|
+| _Ik_          | _moet_            |
+| _Jij / Je_    | _moet_            |
+| _U_           | _moet_            |
+| _Hij / Zij_   | _moet_            |
+| _Wij / Jullie / Zij_ | _moeten_     |
+
+**Examples:**
+-   _Ik moet werken vandaag._ – I have to work today.
+-   _Moeten wij nu vertrekken?_ – Do we have to leave now?
+
+#### 🔍 Sentence Structure Tip:
+Modal verbs go **in second position**, and the **main verb** (in infinitive form) goes **to the end** of the sentence.
+**Example:**
+-   _Ik moet morgen werken._  
+-   _Jij kunt goed zwemmen._  
+-   _Wij willen Nederlands leren._
