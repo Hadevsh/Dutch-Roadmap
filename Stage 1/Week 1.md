@@ -481,3 +481,21 @@ Modal verbs go **in second position**, and the **main verb** (in infinitive form
 -   _Ik moet morgen werken._  
 -   _Jij kunt goed zwemmen._  
 -   _Wij willen Nederlands leren._
+
+#### Talking About the Future
+**Using _gaan_ + infinitive (Going to…)**
+This is the most common way to express a **near or planned future**.
+| Dutch                    | English                          |
+|--------------------------|----------------------------------|
+| _Ik ga studeren._          | I am going to study.             |
+| _Wij gaan eten._           | We are going to eat.             |
+| _Gaan jullie op vakantie?_ | Are you going on vacation?       |
+> **Formula:** [subject] + **gaan** + [infinitive verb]
+
+**Using _zullen_ (Will…)**  
+Used for future intentions, suggestions, or polite offers.
+| Dutch                       | English                         |
+|-----------------------------|---------------------------------|
+| _Zullen we samen koken?_      | Shall we cook together?         |
+| _Ik zal morgen bellen._       | I will call tomorrow.           |
+| _Wat zullen we doen?_         | What shall we do?               |
