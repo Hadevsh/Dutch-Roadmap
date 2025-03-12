@@ -4,7 +4,7 @@
 ---
 **Lesson Goals:**
 -   Learn common **prepositions** in Dutch.
--   Understand how to** describe the location of objects and people**.
+-   Understand how to **describe the location of objects and people**.
 -   Practice forming sentences with **prepositions of place**.
 
 #### What Are Prepositions?
