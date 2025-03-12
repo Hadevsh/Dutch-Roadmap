@@ -528,3 +528,12 @@ d) To be able to
 
 **Make a Weekly Plan**
 Write 3–5 sentences about what you’re going to do this week using **_gaan_**, **_moeten_**, and **_willen_**.
+
+#### Wrap-Up
+- **Say aloud**: 5 sentences using modal verbs and future plans.
+- **Review**: 
+  - *moeten* = must/have to  
+  - *kunnen* = can/be able to  
+  - *willen* = want to  
+  - *gaan + infinitive* = going to do something  
+  - *zullen* = will/shall (suggestion)
