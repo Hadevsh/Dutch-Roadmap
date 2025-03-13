@@ -592,3 +592,7 @@ Use *gaan*, *willen*, *moeten*, and a time expression.
 -   What do you like doing?
 -   What time do you usually get up or go out?
 ➡️ **Now try writing your own.**
+
+---
+### Get ready for Weak 2
+**This is the end of the 13 Lesson Week number 1, if you're ready hop straight in to Week 2**
