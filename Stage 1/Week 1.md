@@ -559,3 +559,28 @@ Let’s briefly review each topic with examples:
 | **Telling Time & Dates**    | *Het is half drie*, *Ik werk 's ochtends*, *in mei*          |
 | **Family & Possession**     | *mijn broer*, *haar moeder*, *onze opa*                      |
 | **Likes, Hobbies & Modal Verbs** | *Ik hou van lezen*, *Ik moet werken*, *Wij gaan eten* |
+
+#### Exercises
+🔄 **Step 1: Vocabulary Recap**
+**Choose the correct Dutch word:**
+1. I have two brothers → _Ik heb twee ......_.  
+2. The book is on the table → _Het boek ligt ...... de tafel_.  
+3. Tomorrow we are going to swim → _Morgen ...... wij zwemmen_.  
+4. My sister doesn’t like dogs → _Mijn zus ...... niet van honden_.  
+5. We have to work today → _Wij ...... vandaag werken_.  
+
+🗣️ **Step 2: Dialogue Building Practice**
+**Scenario 1: Meeting a new friend**
+Create a conversation with:
+- a greeting
+- asking how someone is
+- saying your name and where you’re from
+- something about your hobbies
+
+➡️ **Your turn:** Write or speak a short version of this conversation.  
+Then, **say it aloud** from memory.
+
+**Scenario 2: Making plans for the weekend**
+Use *gaan*, *willen*, *moeten*, and a time expression.
+**Prompt:** It's Friday. You want to invite a friend to do something tomorrow.
+➡️ Try to write your own version.
