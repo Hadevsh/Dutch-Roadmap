@@ -584,3 +584,11 @@ Then, **say it aloud** from memory.
 Use *gaan*, *willen*, *moeten*, and a time expression.
 **Prompt:** It's Friday. You want to invite a friend to do something tomorrow.
 ➡️ Try to write your own version.
+
+📝 **Step 3: Writing Task – Describe Your Weekend**
+**Write 5–7 sentences answering:**
+-   What do you usually do on the weekend?
+-   What are you going to do this weekend?
+-   What do you like doing?
+-   What time do you usually get up or go out?
+➡️ **Now try writing your own.**
