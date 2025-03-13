@@ -544,3 +544,18 @@ Write 3–5 sentences about what you’re going to do this week using **_gaan_**
 -   Practice speaking and writing in **real-life situations** using your new vocabulary and grammar.
 -   Build short dialogues using **greetings, family, time, hobbies, and modal verbs**.
 -   Identify areas that need further review before moving to Week 2.
+
+#### ✅ What Have You Learned So Far?
+Let’s briefly review each topic with examples:
+| Topic                       | Key Concepts & Examples                                       |
+|-----------------------------|---------------------------------------------------------------|
+| **Alphabet & Pronunciation** | *Goedemorgen*, *huis*, *ijs*, *graag*                        |
+| **Greetings & Polite Phrases** | *Hallo! Hoe gaat het? Dank je wel. Tot ziens!*              |
+| **Numbers & Days**          | *vijf*, *twaalf*, *zondag*, *woensdag*                        |
+| **Subject Pronouns + Verbs** | *Ik ben Anna*, *Hij heeft een auto*, *Wij zijn thuis*        |
+| **Simple Sentences & Questions** | *Waar is de kat?*, *Ik heb geen fiets.*                |
+| **Adjectives & Colors**     | *een groot rood huis*, *een klein blauw boek*                |
+| **Prepositions**            | *op de tafel*, *naast het huis*, *in de tas*                 |
+| **Telling Time & Dates**    | *Het is half drie*, *Ik werk 's ochtends*, *in mei*          |
+| **Family & Possession**     | *mijn broer*, *haar moeder*, *onze opa*                      |
+| **Likes, Hobbies & Modal Verbs** | *Ik hou van lezen*, *Ik moet werken*, *Wij gaan eten* |
