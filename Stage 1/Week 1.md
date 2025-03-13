@@ -537,3 +537,10 @@ Write 3–5 sentences about what you’re going to do this week using **_gaan_**
   - *willen* = want to  
   - *gaan + infinitive* = going to do something  
   - *zullen* = will/shall (suggestion)
+----------------------------------------------
+### Lesson 13: Week 1 Review – Conversations & Situational Practice
+**Lesson Goals:**
+-   Reinforce everything learned in Week 1.
+-   Practice speaking and writing in **real-life situations** using your new vocabulary and grammar.
+-   Build short dialogues using **greetings, family, time, hobbies, and modal verbs**.
+-   Identify areas that need further review before moving to Week 2.
