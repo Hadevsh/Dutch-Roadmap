@@ -20,3 +20,15 @@ The Dutch Language Learning Roadmap is split into 4 stages over the course of 12
 5.  **Day 5:** Simple sentence structures using subject + verb + object (e.g., _Ik ben Anna_ - I am Anna).
 6.  **Day 6:** Review Day: Combine what you’ve learned to form conversations and test yourself.
 7.  **Day 7 (Optional):** Watch/listen to a short Dutch video with subtitles to immerse yourself in the sound of the language.
+
+#### **Week 2 Overview - Daily Routines & Expanding Grammar**
+-   **Goal for the Week:** Start building fluency around daily life, learn verbs for common routines, the logic of separable verbs, reflexive verbs, more about noun gender and article usage and vocabulary around home, housework, and personal care.
+
+#### **Daily Focus:**
+1.  **Day 1:**	Talking About Your Day – Morning to Evening Routine
+2.  **Day 2:**	Separable Verbs – What They Are and How to Use Them
+3.  **Day 3:**	Reflexive Verbs – Taking Care of Yourself
+4.  **Day 4:**	Nouns and Gender – Understanding _de_ and _het_
+5.  **Day 5:**	Vocabulary: Home, Rooms, and Daily Chores
+6.  **Day 6:**	Conversation Practice: Describing Your Daily Life
+7.  **Day 7:**	Review and Extended Writing + Speaking Challenge
