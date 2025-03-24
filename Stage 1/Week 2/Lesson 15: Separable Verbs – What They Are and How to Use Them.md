@@ -81,3 +81,8 @@ Write 3–5 sentences about:
 - What time you get up and go to bed.
 - Whether you do chores like washing up or cleaning.
 - Whether you participate in group activities or like to go out.
+
+#### Wrap-Up
+- **Say aloud**: 5 sentences with separable verbs.
+- **Reflect**: What was confusing? Where did you get more confident?
+- **Tips**: Watch out for the **position of the prefix**—it's the #1 separable verb challenge.
