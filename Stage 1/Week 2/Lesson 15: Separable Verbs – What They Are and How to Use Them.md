@@ -55,3 +55,29 @@ When using the **infinitive form** or in **subordinate clauses**, the verb **sta
 
 **5. aankleden** – to get dressed  
 - *Hij kleedt zich snel aan.*
+
+#### Exercises
+**Choose the Correct Word Order**
+**Which is correct?**
+A) Ik opsta om 6 uur.  
+B) Ik sta om 6 uur op.
+
+**Fill in the Blanks**
+1. Wij ...... graag met het team ....... (*meedoen*)  
+2. Hij ...... elke ochtend om 7 uur ....... (*opstaan*)  
+3. Kom jij om 5 uur ......? (*thuiskomen*)  
+4. Ze ...... de borden na het eten ....... (*afwassen*)  
+5. Ik wil me nu ....... (*aankleden*)  
+
+**Translate to Dutch**
+1. I get up at 6:30 every day.  
+2. She comes home at 4 in the afternoon.  
+3. Do you want to participate?  
+4. We don’t like to wash the dishes.  
+5. He gets dressed quickly.
+
+#### Personal Practice
+Write 3–5 sentences about:
+- What time you get up and go to bed.
+- Whether you do chores like washing up or cleaning.
+- Whether you participate in group activities or like to go out.
