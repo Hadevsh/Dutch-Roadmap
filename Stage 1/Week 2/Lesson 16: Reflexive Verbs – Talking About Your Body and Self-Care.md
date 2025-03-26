@@ -48,3 +48,23 @@ A **reflexive verb** is a verb where the subject **acts on itself**. In Dutch, t
 Some reflexive verbs are **inseparable**, like *zich herinneren* (to remember).
 - *Ik **herinner me** jouw naam.* – I remember your name.  
 - *Hij **herinnert zich** de vakantie.* – He remembers the vacation.
+
+#### Self-Care & Daily Life Vocabulary
+
+| Dutch             | English              |
+|------------------------|--------------------------|
+| _zich wassen_            | to wash oneself          |
+| _zich scheren_           | to shave                 |
+| _zich aankleden_         | to get dressed           |
+| _zich uitkleden_         | to undress               |
+| _zich opmaken_           | to put on makeup         |
+| _zich haasten_           | to hurry                 |
+| _zich ontspannen_        | to relax                 |
+| _zich goed voelen_       | to feel good             |
+| _zich ziek voelen_       | to feel sick             |
+
+**Practice Sentences:**
+- *Ik was me om 7 uur.* – I wash myself at 7.  
+- *Jij haast je altijd ’s ochtends.* – You always hurry in the morning.  
+- *Voel jij je goed vandaag?* – Do you feel good today?  
+- *Zij ontspant zich in bad.* – She relaxes in the bath.  
