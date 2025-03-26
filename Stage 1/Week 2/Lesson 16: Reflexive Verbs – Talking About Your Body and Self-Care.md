@@ -67,4 +67,33 @@ Some reflexive verbs are **inseparable**, like *zich herinneren* (to remember).
 - *Ik was me om 7 uur.* – I wash myself at 7.  
 - *Jij haast je altijd ’s ochtends.* – You always hurry in the morning.  
 - *Voel jij je goed vandaag?* – Do you feel good today?  
-- *Zij ontspant zich in bad.* – She relaxes in the bath.  
+- *Zij ontspant zich in bad.* – She relaxes in the bath.
+
+#### Exercises
+
+**Choose the Correct Reflexive Pronoun**
+1. Ik ...... voel me goed.  
+2. Jij ...... wast je gezicht.  
+3. Hij ...... herinnert zich het antwoord.  
+4. Wij ...... haasten naar school.  
+5. Zij ...... kleedt zich aan.
+
+**Fill in the Blanks with Verb Forms**
+1. Elke ochtend ...... ik me snel. (*zich aankleden*)  
+2. Jij ...... je niet goed. (*zich voelen*)  
+3. Mijn zus ...... zich elke avond. (*zich ontspannen*)  
+4. Wij ...... ons om 8 uur. (*zich wassen*)  
+5. Hij ...... zich niet. (*zich haasten*)  
+
+**Translate to Dutch**
+1. I feel tired today.  
+2. We get dressed after showering.  
+3. Do you remember the address?  
+4. She relaxes on the sofa.  
+5. They hurry to the train station.
+
+**Personal Practice**
+Write 3–5 sentences about:
+- What you do in the morning to get ready.
+- How you feel during the day.
+- What helps you relax in the evening.
