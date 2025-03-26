@@ -97,3 +97,8 @@ Write 3–5 sentences about:
 - What you do in the morning to get ready.
 - How you feel during the day.
 - What helps you relax in the evening.
+
+#### Wrap-Up
+- **Say aloud:** 3 reflexive verb sentences.  
+- **Focus on** pronoun placement and verb endings.  
+- **Reflect:** Which reflexive verb feels most natural to use?
