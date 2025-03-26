@@ -31,4 +31,20 @@ A **reflexive verb** is a verb where the subject **acts on itself**. In Dutch, t
 | Wij         | ons                    |
 | Jullie      | je / jullie            |
 | Zij (they)  | zich                   |
+
 ✅ *In casual speech, “me/je” is preferred. “Mij/jou” are used for emphasis.*
+
+#### Sentence Structure and Usage
+
+**Word Order Pattern (Main Clause):**
+**[Subject] + [reflexive pronoun] + [verb] + ...**
+
+- *Ik **was me** elke ochtend.* – I wash myself every morning.  
+- *Zij **kleedt zich** snel aan.* – She gets dressed quickly.  
+- *Wij **haasten ons** naar het station.* – We hurry to the station.  
+
+**Inseparable Reflexive Verbs**
+
+Some reflexive verbs are **inseparable**, like *zich herinneren* (to remember).
+- *Ik **herinner me** jouw naam.* – I remember your name.  
+- *Hij **herinnert zich** de vakantie.* – He remembers the vacation.
