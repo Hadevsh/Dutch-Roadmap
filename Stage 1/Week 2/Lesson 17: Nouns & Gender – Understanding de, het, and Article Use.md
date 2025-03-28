@@ -83,3 +83,33 @@ Roughly 75% of Dutch nouns are **de-words**.
 - *Het huis is nieuw.* – The house is new.  
 - *Ik lees een boek.* – I am reading a book.  
 - *De kinderen spelen buiten.* – The children are playing outside.
+
+#### Exercises
+
+**Choose *de* or *het***
+1. ...... hond  
+2. ...... meisje  
+3. ...... boek  
+4. ...... school  
+5. ...... kind
+
+**Fill in the Blanks**
+1. ...... auto staat op straat. (*car*)  
+2. We bezoeken ...... museum in Amsterdam. (*museum*)  
+3. Ik zie ...... kinderen in het park. (*children*)  
+4. ...... idee is goed. (*idea*)  
+5. Heb jij ...... boek gelezen? (*book*)
+
+**Translate to Dutch (with articles)**
+1. The man has a big house.  
+2. The children are eating lunch.  
+3. A woman is reading a book.  
+4. The dog sleeps under the table.  
+5. That is a good idea.
+
+**Personal Practice**
+Write 5 sentences about:
+- Things in your room or home
+- People in your family
+- Things you like or use daily
+✅ Try to use a mix of *de* and *het* words!
