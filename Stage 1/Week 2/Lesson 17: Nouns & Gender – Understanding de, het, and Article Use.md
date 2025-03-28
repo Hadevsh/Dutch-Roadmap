@@ -20,3 +20,48 @@
 | *een*     | a / an      |
 
 > *een* never changes, regardless of *de* or *het*.
+
+#### Step 2: Common Patterns & Memory Tips
+**Most nouns use “de”**  
+Roughly 75% of Dutch nouns are **de-words**.
+
+**Use *de* for:**
+1. **People and professions:**  
+   - *de man* (the man)  
+   - *de vrouw* (the woman)  
+   - *de dokter* (the doctor)
+
+2. **Most animals:**  
+   - *de hond* (the dog)  
+   - *de kat* (the cat)
+
+3. **Words ending in these suffixes:**  
+   - *-heid, -ing, -schap, -teit, -ij*  
+   - Examples: *de vrijheid* (freedom), *de opleiding* (education), *de maatschappij* (society)
+
+4. **Plural nouns** always take *de*:  
+   - *de kinderen* (the children)  
+   - *de boeken* (the books)
+
+**Use *het* for:**
+1. **Diminutives (always!):**  
+   - *het boekje* (the little book)  
+   - *het hondje* (the puppy)
+
+2. **Words starting with “ge-” or “ver-” and ending in *-sel*:**  
+   - *het verschil* (the difference)  
+   - *het gesprek* (the conversation)
+
+3. **Languages and countries:**  
+   - *het Nederlands* (Dutch)  
+   - *het Spanje* (Spain)
+
+4. **Most words ending in *-um* or *-isme*:**  
+   - *het museum*, *het toerisme*
+
+#### ❗ Tips for Memorization:
+- Always learn the **article with the noun**:  
+  > Not *tafel*, but *de tafel*.  
+  > Not *huis*, but *het huis*.
+
+- Use flashcards or color-coding (e.g., **blue = _het_**, **red = _de_**).
