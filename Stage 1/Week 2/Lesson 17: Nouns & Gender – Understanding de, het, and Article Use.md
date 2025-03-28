@@ -113,3 +113,8 @@ Write 5 sentences about:
 - People in your family
 - Things you like or use daily
 ✅ Try to use a mix of *de* and *het* words!
+
+#### Wrap-Up
+- **Say aloud**: 5 noun phrases with *de* and *het*.  
+- **Focus**: Accuracy of article use.  
+- **Review trick**: Memorize *het-words* — the rest are probably *de*!
