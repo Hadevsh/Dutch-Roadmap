@@ -65,3 +65,21 @@ Roughly 75% of Dutch nouns are **de-words**.
   > Not *huis*, but *het huis*.
 
 - Use flashcards or color-coding (e.g., **blue = _het_**, **red = _de_**).
+
+**Practice With Common Nouns**
+| **Dutch**     | **Article** | **English**       |
+|---------------|-------------|-------------------|
+| *tafel*       | _de_          | table             |
+| *stoel*       | _de_          | chair             |
+| *boek*        | _het_         | book              |
+| *huis*        | _het_         | house             |
+| *vrouw*       | _de_          | woman             |
+| *kind*        | _het_         | child             |
+| *auto*        | _de_          | car               |
+| *idee*        | _het_         | idea              |
+
+**Example Sentences:**
+- *De tafel is groot.* – The table is big.  
+- *Het huis is nieuw.* – The house is new.  
+- *Ik lees een boek.* – I am reading a book.  
+- *De kinderen spelen buiten.* – The children are playing outside.
