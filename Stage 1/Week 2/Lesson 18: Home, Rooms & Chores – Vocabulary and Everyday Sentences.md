@@ -94,3 +94,8 @@ Write 4–6 sentences describing:
 - The layout of your home (how many rooms, where things are)
 - What chores you usually do
 - Where you spend the most time
+
+#### Wrap-Up
+- **Say aloud**: 5 things in your home and what you do there.  
+- Practice full sentences using vocabulary + prepositions like *in*, *naast*, *op*.  
+- **Tip**: Look around your house and name items in Dutch!
