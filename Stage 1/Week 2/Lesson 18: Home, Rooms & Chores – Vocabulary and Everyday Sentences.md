@@ -35,3 +35,23 @@
 | _de lamp_          | the lamp           |
 | _het tapijt_       | the carpet         |
 | _de spiegel_       | the mirror         |
+
+#### Household Chores
+
+| Dutch                 | English              |
+|---------------------------|--------------------------|
+| _schoonmaken_               | to clean                 |
+| _stofzuigen_                | to vacuum                |
+| _afwassen_                  | to do the dishes         |
+| _de was doen_               | to do laundry            |
+| _koken_                     | to cook                  |
+| _opruimen_                  | to tidy up               |
+| _de tafel dekken_           | to set the table         |
+| _boodschappen doen_         | to do groceries          |
+| _planten water geven_       | to water the plants      |
+
+**Example Sentences:**
+- *Ik maak de keuken schoon.* – I clean the kitchen.  
+- *Zij doet elke zaterdag de was.* – She does the laundry every Saturday.  
+- *Wij koken samen in de avond.* – We cook together in the evening.  
+- *De bank staat in de woonkamer.* – The couch is in the living room.
