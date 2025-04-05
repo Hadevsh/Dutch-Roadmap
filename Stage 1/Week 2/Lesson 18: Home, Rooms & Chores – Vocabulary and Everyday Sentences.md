@@ -55,3 +55,42 @@
 - *Zij doet elke zaterdag de was.* – She does the laundry every Saturday.  
 - *Wij koken samen in de avond.* – We cook together in the evening.  
 - *De bank staat in de woonkamer.* – The couch is in the living room.
+
+#### Exercises
+
+**Match Dutch to English**
+
+1. De slaapkamer  
+2. Stofzuigen  
+3. De kast  
+4. De tuin  
+5. De was doen  
+
+a) Wardrobe / closet  
+b) Bedroom  
+c) To vacuum  
+d) Garden  
+e) To do the laundry  
+
+**Fill in the Blanks**
+
+1. Ik slaap in de .......  
+2. Mijn moeder ...... elke dag. (*cleans*)  
+3. De boeken staan in de .......  
+4. In de ...... koken wij avondeten.  
+5. Wij doen op zaterdag de .......
+
+**Translate to Dutch**
+
+1. The couch is in the living room.  
+2. I vacuum the floor every weekend.  
+3. We do the dishes after dinner.  
+4. She cleans the bathroom on Monday.  
+5. My father waters the plants in the garden.
+
+**Personal Practice**
+
+Write 4–6 sentences describing:
+- The layout of your home (how many rooms, where things are)
+- What chores you usually do
+- Where you spend the most time
