@@ -21,3 +21,17 @@
 | _het balkon_        | the balcony           |
 | _de zolder_         | the attic             |
 
+#### Furniture & Objects
+
+| Dutch        | English        |
+|------------------|--------------------|
+| _de tafel_         | the table          |
+| _de stoel_         | the chair          |
+| _het bed_          | the bed            |
+| _de kast_          | the cupboard / closet |
+| _de bank_          | the couch / sofa   |
+| _het raam_         | the window         |
+| _de deur_          | the door           |
+| _de lamp_          | the lamp           |
+| _het tapijt_       | the carpet         |
+| _de spiegel_       | the mirror         |
