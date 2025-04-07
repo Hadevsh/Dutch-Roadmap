@@ -14,3 +14,18 @@
 5. Wat zijn jouw hobby’s?
 
 ✅ Ready? Now we’ll turn these into dialogues!
+
+#### Dialogue 1 – Morning Routine
+
+**Situation:** Two friends talking about their morning.
+**Read the example dialogue:**
+
+**A:** Goedemorgen! Hoe laat sta jij op?  
+**B:** Ik sta meestal om half zeven op. En jij?  
+**A:** Om zeven uur. Douche jij direct na het opstaan?  
+**B:** Ja, ik douche en daarna kleed ik me aan.  
+**A:** Wat eet je voor ontbijt?  
+**B:** Ik drink koffie en eet een boterham met pindakaas.
+
+➡️ **Your Turn:** Write or say your own version.  
+Include: time, showering, breakfast, what you do next.
