@@ -72,3 +72,9 @@ Say each of the following **3 times aloud**, changing the subject each time:
 5. Tv kijken / lezen / ontspannen
 
 ➡️ This builds **automaticity** – critical for fluency!
+
+#### Wrap-Up
+- **What went well today?**  
+- **Where did you hesitate or feel unsure?**
+
+**Tip:** Practice these dialogues out loud with a partner, voice note, or shadowing.
