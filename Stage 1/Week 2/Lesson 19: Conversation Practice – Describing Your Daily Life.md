@@ -45,3 +45,30 @@ Include: time, showering, breakfast, what you do next.
 - Where do you live?
 - How many rooms?
 - What chores do you usually do?
+
+#### Open Speaking Practice – Telling Your Story
+#### Speak or write a short monologue in Dutch (6–8 sentences):
+
+**Include:**
+- Your morning and evening routine  
+- Your home and chores  
+- Your hobbies or preferences
+
+**Template example:**
+> Ik woon in een appartement met mijn partner.  
+> Elke ochtend sta ik om 6:30 op.  
+> Ik douche, kleed me aan en ontbijt.  
+> Daarna ga ik naar mijn werk.  
+> ’s Avonds kook ik en kijk ik een film.  
+> In het weekend lees ik graag boeken of ga ik wandelen.
+
+#### Fluency Drills
+Say each of the following **3 times aloud**, changing the subject each time:
+
+1. Opstaan om … uur  
+2. Zich aankleden  
+3. De afwas doen  
+4. Naar werk/school gaan  
+5. Tv kijken / lezen / ontspannen
+
+➡️ This builds **automaticity** – critical for fluency!
