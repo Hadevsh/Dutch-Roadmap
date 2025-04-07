@@ -29,3 +29,19 @@
 
 ➡️ **Your Turn:** Write or say your own version.  
 Include: time, showering, breakfast, what you do next.
+
+#### Dialogue 2 – At Home
+
+**Situation:** Someone asks about your home and chores.
+**Dialogue Example:**
+
+**A:** Woon jij in een huis of een appartement?  
+**B:** Ik woon in een huis met drie slaapkamers.  
+**A:** Moet jij veel schoonmaken?  
+**B:** Ja, ik stofzuig en doe de afwas. En jij?  
+**A:** Ik doe de was en ik geef de planten water.
+
+➡️ Try it yourself:
+- Where do you live?
+- How many rooms?
+- What chores do you usually do?
