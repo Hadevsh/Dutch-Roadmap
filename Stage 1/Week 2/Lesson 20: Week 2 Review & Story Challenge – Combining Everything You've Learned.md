@@ -68,4 +68,4 @@ Think about the past 2 weeks of Dutch:
 
 ---
 ### Get ready for Weak 3
-**This is the end of the 20th Lesson, Week 1, if you're ready hop straight in to Week 3**
+**This is the end of the 20th Lesson, Week 2, if you're ready hop straight in to Week 3**
