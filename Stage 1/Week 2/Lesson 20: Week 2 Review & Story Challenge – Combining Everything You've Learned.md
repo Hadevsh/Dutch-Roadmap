@@ -30,3 +30,11 @@
    A) Ik voel mij ziek.  
    B) Ik zie mij ziek.  
    C) Ik zijn ziek.
+
+#### Translate to Dutch
+**Translate the following sentences using vocabulary and grammar from this week:**
+1. I get up at 7 and take a shower.  
+2. Then I get dressed and eat breakfast.  
+3. I go to work at 8 o’clock.  
+4. In the evening I do the dishes and vacuum.  
+5. My house has a kitchen, a living room and two bedrooms.  
