@@ -65,3 +65,7 @@ Think about the past 2 weeks of Dutch:
 - 🤔 What was hardest for you?
 - 📌 What do you want more practice with?
 - 🎯 What would you like to learn next?
+
+---
+### Get ready for Weak 3
+**This is the end of the 20th Lesson, Week 1, if you're ready hop straight in to Week 3**
