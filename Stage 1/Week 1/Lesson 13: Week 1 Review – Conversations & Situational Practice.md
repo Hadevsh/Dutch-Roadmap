@@ -55,4 +55,4 @@ Use *gaan*, *willen*, *moeten*, and a time expression.
 
 ---
 ### Get ready for Weak 2
-**This is the end of the 13 Lesson Week number 1, if you're ready, hop straight in to Week 2**
+**This is the end of the 13th Lesson, Week 1, if you're ready, hop straight in to Week 2**
