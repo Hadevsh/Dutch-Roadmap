@@ -38,3 +38,30 @@
 3. I go to work at 8 o’clock.  
 4. In the evening I do the dishes and vacuum.  
 5. My house has a kitchen, a living room and two bedrooms.  
+
+#### Story Challenge
+**Write a short paragraph (8–10 sentences)** in Dutch:
+- Describe your home 🏡  
+- Your daily routine (morning to evening) ☀️🌙  
+- What chores you do 🧽  
+- What you like to do in your free time 🎧📖  
+
+**Example Story:**
+> Ik woon in een appartement in de stad.  
+Elke ochtend sta ik om half zeven op.  
+Ik was me en kleed me aan.  
+Daarna eet ik ontbijt en ga ik naar mijn werk.  
+Na werk kom ik thuis en maak ik avondeten.  
+Ik doe de afwas en stofzuig de vloer.  
+Mijn huis heeft een woonkamer, een keuken en een kleine tuin.  
+In de avond lees ik of kijk ik tv.  
+Ik ga meestal om 11 uur naar bed.
+
+✍️ **Now it’s your turn!** You can write your story here, and I’ll help polish it if needed.
+
+#### Reflection
+Think about the past 2 weeks of Dutch:
+- ✅ What are you proud of?
+- 🤔 What was hardest for you?
+- 📌 What do you want more practice with?
+- 🎯 What would you like to learn next?
