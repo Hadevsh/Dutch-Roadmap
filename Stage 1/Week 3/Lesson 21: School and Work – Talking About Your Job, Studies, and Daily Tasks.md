@@ -48,3 +48,48 @@ Answer these questions in Dutch (write or say aloud):
 2. Wat doe je elke dag op werk of school?  
 3. Heb je veel collega’s of klasgenoten?  
 4. Hoe laat begin je? En hoe laat ben je klaar?
+
+#### Exercises
+
+**Match the Dutch to English**
+1. de baas  
+2. opdrachten maken  
+3. het kantoor  
+4. leren  
+5. de collega  
+
+a) to learn  
+b) the boss  
+c) the office  
+d) to do assignments  
+e) the colleague  
+
+**Fill in the Blanks**
+1. Ik ...... psychologie aan de universiteit. (*to study*)  
+2. Elke ochtend ...... ik mijn e-mail. (*to check/send*)  
+3. Mijn collega’s en ik ...... veel vergaderingen. (*to have*)  
+4. Hij ...... huiswerk na school. (*to do*)  
+5. Wij ...... Nederlands op school. (*to learn*)  
+
+**Translate to Dutch**
+1. I study computer science at the university.  
+2. We have a lot of work today.  
+3. She works in a hospital.  
+4. Do you have a break in the afternoon?  
+5. He writes emails and prepares presentations.
+
+#### Mini Monologue
+Write or say 6–8 sentences about:
+- Where you work or study  
+- What you do daily  
+- When you start and finish  
+- If you like your work/studies
+
+**Example:**
+> Ik werk bij een marketingbedrijf.  
+Elke dag begin ik om half negen.  
+Ik stuur e-mails, schrijf teksten en heb meetings.  
+Mijn collega’s zijn aardig.  
+’s Middags neem ik pauze en drink ik koffie.  
+Ik ben meestal om 17:00 klaar.  
+Ik vind mijn werk leuk.
