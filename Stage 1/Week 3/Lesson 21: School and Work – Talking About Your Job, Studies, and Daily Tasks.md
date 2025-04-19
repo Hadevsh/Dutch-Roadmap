@@ -93,3 +93,8 @@ Mijn collega’s zijn aardig.
 ’s Middags neem ik pauze en drink ik koffie.  
 Ik ben meestal om 17:00 klaar.  
 Ik vind mijn werk leuk.
+
+#### Wrap-Up
+- Say 3 things you do every day at work or school.  
+- Review 5 new words from today.  
+- Reflect: Are you more confident talking about your work/study routine?
