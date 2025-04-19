@@ -41,3 +41,10 @@
 - *Zij studeert psychologie aan de universiteit.* – She studies psychology at the university.  
 - *Wij hebben elke dag een korte pauze.* – We have a short break every day.  
 - *Ik moet een presentatie geven.* – I have to give a presentation.  
+
+#### Talking About Your Work or Studies
+Answer these questions in Dutch (write or say aloud):
+1. Waar werk jij of studeer jij?  
+2. Wat doe je elke dag op werk of school?  
+3. Heb je veel collega’s of klasgenoten?  
+4. Hoe laat begin je? En hoe laat ben je klaar?
